@@ -48,7 +48,7 @@
 	 <sentence name="CtrlPerPartOneVariableOneValue" value="Select a variable for which you will select a value as basis"/>
 	 <sentence name="CtrlPerPartOneMatrixValue" value="Select a datacells as basis, one value for each variable"/>
 	 <sentence name="CtrlCommandBarEditAndCalulateCaption" value="Edit and Calculate"/>
-	 <sentence name="CtrlCommandBarSaveAsCaption" value="Save As"/>
+	 <sentence name="CtrlCommandBarSaveAsCaption" value="Save table as"/>
 	 <sentence name="CtrlCommandBarGraphsAndMapsCaption" value="Presentation views"/>
 	 <sentence name="CtrlCommandBarActionButtonCaption" value="Send"/>
 	 <sentence name="CtrlCommandBarPluginSelectorOkButtonCaption" value="Ok"/>
@@ -95,9 +95,11 @@
 	 <sentence name="CtrlCommandBarFunctionChangeValueOrder" value="Change value order" />
 	 <sentence name="CtrlCommandBarFileTypeXlsTitle" value="Save as Excel"/>
 	 <sentence name="CtrlCommandBarFileTypeXlsAlt" value="Save as Excel"/>
-	 <sentence name="CtrlCommandBarFileTypePxTitle" value="Save as Px"/>
-	 <sentence name="CtrlCommandBarFileTypePXAlt" value="Save as Px"/>
-	 <sentence name="CtrlCommandBarFileTypeTxtTitle" value="Save as Text"/>
+   <sentence name="CtrlCommandBarFileTypePxTitle" value="Save as Px"/>
+   <sentence name="CtrlCommandBarFileTypePXAlt" value="Save as Px"/>
+   <sentence name="CtrlCommandBarFileTypeJsonStatTitle" value="Save as JSON-stat"/>
+   <sentence name="CtrlCommandBarFileTypeJsonStatAlt" value="Save as JSON-stat"/>
+   <sentence name="CtrlCommandBarFileTypeTxtTitle" value="Save as Text"/>
 	 <sentence name="CtrlCommandBarFileTypeTxtAlt" value="Save as Text"/>
 	 <sentence name="CtrlCommandBarFileTypeCsvTitle" value="Save as Csv"/>
 	 <sentence name="CtrlCommandBarFileTypeCsvAlt" value="Save as Csv"/>
@@ -143,7 +145,7 @@
 	 <sentence name="CtrlHierarchicalVariableOpenAllNodesButton" value="Open all" />
 	 <sentence name="CtrlHierarchicalVariableCloseAllNodesButton" value="Close all" />
 	 <sentence name="CtrlHierarchicalVariableContinueButtonText" value="Continue" />
-	 <sentence name="CtrlHierarchicalVariableErrorMessage" value="An error har occured, please return to starpage and make selection again" />
+	 <sentence name="CtrlHierarchicalVariableErrorMessage" value="An error har occured, please return to startpage and make selection again" />
 	 <sentence name="CtrlInformationInformationLabel" value="Information"/>
 	 <sentence name="CtrlInformationOfficialStatisticsLabel" value="Official statistics"/>
 	 <sentence name="CtrlInformationUnitLabel" value="Unit"/>
@@ -155,7 +157,7 @@
 	 <sentence name="CtrlInformationDayAdjLabel" value="Day adjusted"/>
 	 <sentence name="CtrlInformationSeasAdjLabel" value="Seasonally adjusted"/>
 	 <sentence name="CtrlInformationBasePeriodLabel" value="Basetime"/>
-	 <sentence name="CtrlInformationUpdateFrequencyLabel" value="Updatefrequency"/>
+	 <sentence name="CtrlInformationUpdateFrequencyLabel" value="Update frequency"/>
 	 <sentence name="CtrlInformationNextUpdateLabel" value="Next update"/>
 	 <sentence name="CtrlInformationSurveyLabel" value="Survey"/>
 	 <sentence name="CtrlInformationLinkLabel" value="Link"/>
@@ -201,7 +203,7 @@
 	 <sentence name="CtrlSaveAsContinueButton" value="Save"/>
 	 <sentence name="CtrlSaveAsCancelButton" value="Cancel"/>
 	 <sentence name="CtrlSaveAsButtonLabel" value="Select an option and press "/>
-	 <sentence name="CtrlSaveAsSaveTypeDropDown" value="Save as filetyp "/>
+	 <sentence name="CtrlSaveAsSaveTypeDropDown" value="Save as filetype "/>
 	 <sentence name="CtrlSaveAsDelimiterDropDown" value="Choose delimiter"/>
 	 <sentence name="CtrlSaveAsSaveTypeDropDownButton" value="Continue"/>
 	 <sentence name="SumInvalidValuename" value="The new value must have a unique text for the variable."/>
@@ -271,7 +273,7 @@
 	 <sentence name="CtrlVariableSelectorSelectionMissingErrorMessage" value="At least one value has to be selected for variable: " />
 	 <sentence name="CtrlVariableSelectorContinueLabel" value="Select an option and press"/>
 	 <sentence name="CtrlVariableSelectorContinueButton" value="Continue"/>
-	 <sentence name="CtrlVariableSelectorRowOwerflowMessage" value="There are more then 500 values and they are therefore not automatically presented" />
+	 <sentence name="CtrlVariableSelectorRowOwerflowMessage" value="There are more than 500 values and they are therefore not automatically presented" />
 	 <sentence name="CtrlVariableSelectorShowAll" value="Show All" />
 	 <sentence name="CtrlVariableSelectorShowHierarchy" value="Show hierarchy" />
 	 <sentence name="CtrlVariableSelectorSearch" value="Search" />
@@ -284,7 +286,7 @@
 
 	 <sentence name="CtrlCommandBarFunctionSplitTimeVar" value="Split time variable"/>
 
-	 <sentence name="CtrlSaveQueryCreateHeader" value="You can save your selection for later use" />
+	 <!--<sentence name="CtrlSaveQueryCreateHeader" value="You can save your selection for later use" />
 	 <sentence name="CtrlSaveQueryCreateDescription" value="You can also make one or more edit/calculation before you save it." />
 	 <sentence name="CtrlSaveQueryCreateTableCode" value="Table Code:" />
 	 <sentence name="CtrlSaveQueryCreateDescriptionLabel" value="Description:" />
@@ -295,10 +297,10 @@
 	 <sentence name="CtrlSaveQueryCreateFixedStartPeriodAndMovingLastPeriod" value="Fixed start period and moving last period" />
 	 <sentence name="CtrlSaveQueryCreateHeaderPresentation" value="Select presentation:" />
 	 <sentence name="CtrlSaveQueryCreateTableOnScreen" value="Table on screen" />
-	 <sentence name="CtrlSaveQueryCreateDownloadInFileFormat" value="Download in fileformat:" />
-	 <sentence name="CtrlSaveQueryCreateCreateWebQueryForDataimportInExcel" value="Create web query for dataimport in Excel" />
+	 <sentence name="CtrlSaveQueryCreateDownloadInFileFormat" value="Download in file format:" />
+	 <sentence name="CtrlSaveQueryCreateCreateWebQueryForDataimportInExcel" value="Create web query for data import in Excel" />
 	 <sentence name="CtrlSaveQueryCreateSendEmailWhenTableIsUpdated" value="Send e-mail when table is updated" />
-	 <sentence name="CtrlSaveQueryCreateSave" value="Save the table specification" />
+	 <sentence name="CtrlSaveQueryCreateSave" value="Save the table specification" />-->
 
 
 	 <sentence name="CtrlSaveQueryListEditHeaderStrong" value="Edit Saved Table Specification" />
@@ -327,7 +329,7 @@
 	 <sentence name="CtrlTableOfContentSizeKilobytes" value="Kb"/>
 	 <sentence name="CtrlTableOfContentModifiedHeading" value="Modified:"/>
 	 <sentence name="CtrlTableOfContentUpdatedHeading" value="Updated:"/>
-	 <sentence name="CtrlTableOfContentActionButton" value="Javascript is disabled, cklick to load the whole tree"/>
+	 <sentence name="CtrlTableOfContentActionButton" value="Javascript is disabled, click to load the whole tree"/>
 	 <sentence name="CtrlTableOfContentExternalLinkTooltip" value="Information"/>
 
 	 <sentence name="CtrlTableListSizeHeading" value="Size:"/>
@@ -347,7 +349,7 @@
 	 <sentence name="CtrlCsvFileTypeFileTabulator" value="Tabulator" />
 	 <sentence name="CtrlCsvFileTypeFileComma" value="Comma" />
 	 <sentence name="CtrlCsvFileTypeFileSpace" value="Space" />
-	 <sentence name="CtrlCsvFileTypeFileSemicolon" value="Semi colon" />
+	 <sentence name="CtrlCsvFileTypeFileSemicolon" value="Semicolon" />
 
 	 <sentence name="CtrlExcelInformationLevelNone" value="None" />
 	 <sentence name="CtrlExcelInformationLevelMandatoryFootnotes" value="Mandatory footnotes only" />
@@ -355,8 +357,9 @@
 	 <sentence name="CtrlExcelInformationLevelAll" value="All information" />
 	 <sentence name="CtrlExcelDoubleColumn" value="Code and text in separate columns" />
 
-	 <sentence name="FileTypePX" value="PC-Axis file" />
-	 <sentence name="FileTypeExcel" value="Excel workbook (xml)" />
+   <sentence name="FileTypePX" value="PC-Axis file" />
+   <sentence name="FileTypeJsonStat" value="JSON-stat file (json)" />
+   <sentence name="FileTypeExcel" value="Excel workbook (xml)" />
 	 <sentence name="FileTypeExcelDoubleColumn" value="Excel workbook (xml) with code and text" />
 	 <sentence name="FileTypeExcelCompleteInfoFile" value="Excel file from screen" />
 	 <sentence name="FileTypeCsvWithHeadingAndTabulator" value="Tab delimited with heading" />
@@ -365,8 +368,8 @@
 	 <sentence name="FileTypeCsvWithoutHeadingAndComma" value="Comma delimited without heading" />
 	 <sentence name="FileTypeCsvWithHeadingAndSpace" value="Space delimited with heading" />
 	 <sentence name="FileTypeCsvWithoutHeadingAndSpace" value="Space delimited without heading" />
-	 <sentence name="FileTypeCsvWithHeadingAndSemiColon" value="Semi colon delimited with heading" />
-	 <sentence name="FileTypeCsvWithoutHeadingAndSemiColon" value="Semi colon delimited without heading" />
+	 <sentence name="FileTypeCsvWithHeadingAndSemiColon" value="Semicolon delimited with heading" />
+	 <sentence name="FileTypeCsvWithoutHeadingAndSemiColon" value="Semicolon delimited without heading" />
 	 <sentence name="FileTypeText" value="Text file (txt)" />
 	 <sentence name="FileTypeHtml" value="Html file (htm)" />
 	 <sentence name="FileTypeRelational" value="Relational file (scb)" />
@@ -425,9 +428,36 @@
 	 <sentence name="CtrlTableQueryUrlCaption" value="URL:" />
 	 <sentence name="CtrlTableQueryQueryCaption" value="JSON query:" />
 	 <sentence name="CtrlTableQueryMoreInformation" value="More information" />
+   <sentence name="CtrlNavigationFlowStep1" value="Choose table" />
+   <sentence name="CtrlNavigationFlowStep2" value="Choose variable" />
+   <sentence name="CtrlNavigationFlowStep3" value="Show table" />
 
+   <sentence name="CtrlSaveQueryChoosetimeperiod" value="Update options" />
+   <sentence name="CtrlSaveQueryChoosetimeperiodInformation" value="What do you want to do with your saved search if the tables are updated with new time periods?" />
+   <sentence name="CtrlSaveQueryTimeWarning" value="It is not possible to choose to update the search, because the time periods have been combined manually" />
+   <sentence name="CtrlSaveQueryNoTimeValWarning" value="It is not possible to update the search since there is no defined time variable in this table." />
+   <sentence name="CtrlSaveQuerylnkSaveQuery" value="Save your retrieval" />
+   <sentence name="CtrlSaveQueryAsCaption" value="Save the result as (mandatory):" />
+   <sentence name="CtrlSaveQueryForScreen" value="Same as shown on screen" />
+   <sentence name="CtrlSaveQueryCancelSaveQuery" value="Cancel" />
+   <sentence name="CtrlSaveQuerybtnCreateQuery" value="Finish" />
+   <sentence name="CtrlSaveQueryFloatingTimePeriod" value="Update the search with a rolling start time point and an unchanged number of time periods" />
+   <sentence name="CtrlSaveQuerySelectedTimePeriod" value="Don't update the search, but show the same time periods as on the screen" />
+   <sentence name="CtrlSaveQueryExtendedTimePeriod" value="Update the search with a fixed starting time point and the new time periods " />
+   <sentence name="CtrlSaveQuerySelectFormat" value="Select format" />
+   <sentence name="CtrlSaveQuerySelectFormatMissing" value="Select format to complete" />  
+   <sentence name="CtrlSaveQuerybtnBack" value="Back" />
+   <sentence name="CtrlSaveQueryBookmark" value="Bookmark" />
+   <sentence name="CtrlSaveQueryCopyLink" value="Copy" />
+   <sentence name="CtrlSaveQueryMailQuery" value="Send as e-mail" />
+   <sentence name="CtrlSaveQueryFailedSave" value="Failed to save the query" />
+   <sentence name="CtrlSaveQueryURLInfo" value="You can return to the saved search by clicking on this link" />
+   <sentence name="CtrlSaveQueryHeadingExplanationText" value="About save your retrieval" />
+   <sentence name="CtrlSaveQueryExplanationText" value="Save your retrieval so you can return to the same table by using a web address" />
+   <sentence name="CtrlSaveQueryUpdateSummaryHeading" value="Update alternatives:" />
+   <sentence name="CtrlSaveQueryOutputSummaryHeading" value="Format:" />
 
-	 <sentence name="PxcYear" value="year" />
+   <sentence name="PxcYear" value="year" />
 	 <sentence name="PxcHalfyear" value="halfyear" />
 	 <sentence name="PxcQuarter" value="quarter" />
 	 <sentence name="PxcMonth" value="month" />
@@ -547,9 +577,9 @@
 	 <sentence name="CancelButton" value="Cancel"/>
 
 	 <!-- PX-Web -->
-	 <sentence name="PxWebApplicationTitle" value="PX-Web 2013"/>
-	 <sentence name="PxWebApplicationName" value="PX-Web 2013"/>
-	 <sentence name="PxWebLogoAlt" value="PX-Web"/>
+	 <sentence name="PxWebApplicationTitle" value="Statistics Faroes | Statbank (staging)"/>
+	 <sentence name="PxWebApplicationName" value="Statistics Faroes | Statbank (staging)"/>
+	 <sentence name="PxWebLogoAlt" value="Statistics Faroes | Statbank (staging)"/>
 	 <sentence name="PxWebHome" value="Home"/>
 	 <sentence name="PxWebMenu" value="Menu"/>
 	 <sentence name="PxWebSelection" value="Selection"/>
@@ -560,8 +590,18 @@
 	 <sentence name="PxWebMarkingTipsHeader" value="Tip on how to mark in a list box"/>
 	 <sentence name="PxWebMarkingTipsText" value="At least one indication in every list box has to be made to show a result for each variable. When you wish to &#xD;&#xA;see one or a few variables, mark these only. N.B. To undo a mark, press the button CTRL and click the mouse &#xD;&#xA;button on the text.&#xD;&#xA;&#xD;&#xA;To select all lines in a list box:&#xD;&#xA;- Mark the first line in the list box. Then press the buttons SHIFT and END simultaneously.&#xD;&#xA;&#xD;&#xA;To select/undo a marked line in a list box:&#xD;&#xA;- Press the button CTRL and click the left mouse button on the selected line simultaneously.&#xD;&#xA;&#xD;&#xA;To select more than one line in a list box:&#xD;&#xA;- Mark lines in a row by pressing the left mouse button and slip it over the requested lines. Or, mark the first &#xD;&#xA;line on your list and then press the button SHIFT at the same time as you press the up or down arrows on the keyboard. &#xD;&#xA;- Mark lines, not in a row, by pressing the button CTRL at the same time as you click the left mouse button on the requested lines. &#xD;&#xA;&#xD;&#xA;To search for a specific value in the list box:&#xD;&#xA;- Mark the first line in the list box. Then type the first letter in the line requested. If you fail in getting the right line, &#xD;&#xA;try the typing again until you find the right value. Or use the up or down arrows or the mouse button to look further. " />
 	 <sentence name="PxWebPresentation" value="Presentation"/>
-	 <sentence name="PxWebTable" value="Table" />
-	 <sentence name="PxWebChart" value="Chart" />
+   <sentence name="PxWebTable" value="Table" />
+   <sentence name="PxWebTableUserSettingsShow" value="Table settings" />
+   <sentence name="PxWebTableUserSettingsHide" value="Hide settings" />
+   <sentence name="PxWebTableUserSettingsZeroOption" value="Rows with zeros:" />
+   <sentence name="PxWebTableUserSettingsZeroOptionShowAll" value="Show all rows" />
+   <sentence name="PxWebTableUserSettingsZeroOptionNoZero" value="Hide rows with only zeros" />
+   <sentence name="PxWebTableUserSettingsZeroOptionNoZeroAndNil" value="Hide rows with only zeros or '-'" />
+   <sentence name="PxWebTableUserSettingsZeroOptionNoSymbols" value="Hide rows with only dots" />
+   <sentence name="PxWebTableUserSettingsZeroOptionNoZeroNilAndSymbol" value="Hide rows with only zeros, '-' or dots" />
+   <sentence name="PxWebTableUserSettingsCancel" value="Cancel" />
+   <sentence name="PxWebTableUserSettingsApply" value="Save settings" />
+   <sentence name="PxWebChart" value="Chart" />
 	 <sentence name="PxWebChartUserSettingsTitle" value="Title:" />
 	 <sentence name="PxWebChartUserSettingsHeight" value="Height:" />
 	 <sentence name="PxWebChartUserSettingsWidth" value="Width:" />
@@ -579,7 +619,8 @@
 	 <sentence name="PxWebChartUserSettingsLegend" value="Legend:" />
 	 <sentence name="PxWebChartUserSettingsLegendShow" value="Show" />
 	 <sentence name="PxWebChartUserSettingsLegendHeight" value="Height (% of chart):" />
-	 <sentence name="PxWebChartUserSettingsApply" value="Apply" />
+   <sentence name="PxWebChartUserSettingsCancel" value="Cancel" />
+   <sentence name="PxWebChartUserSettingsApply" value="Save settings" />
 	 <sentence name="PxWebChartUserSettingsShow" value="Chart settings" />
 	 <sentence name="PxWebChartUserSettingsHide" value="Hide settings" />
 	 <sentence name="PxWebChartPieChartTitle" value="Pie chart cannot be displayed" />
@@ -587,7 +628,7 @@
 	 <sentence name="PxWebChartPyramidChartTitle" value="Population pyramid cannot be displayed" />
 	 <sentence name="PxWebChartPyramidChartInformation" value="For the population pyramid, one of the variables have an unlimited number of values. One of the other variables must have two values, while the rest of the variables may only have one value. Eg variable age can have all its values ​​and the variable sex has two values. Use the 'Delete value' operation in the 'Edit and calculate' menu above to remove values." />
 	 <sentence name="PxWebChartTooManyValues" value="Too many values selected" />
-	 <sentence name="PxWebChartTooManyValuesInformation" value="You have selected too many values. The maximum number of cells in data is {0}. Use the 'Delete variable' or 'Delete values' operation in the 'Edit and calculate menu above'." />
+	 <sentence name="PxWebChartTooManyValuesInformation" value="You have selected too many values." />
 	 <sentence name="PxWebChartUserSettingsLargeValue" value="Maximum value is {0}" />
 	 <sentence name="PxWebChartLeftScale" value="(left scale)" />
 	 <sentence name="PxWebChartRightScale" value="(right scale)" />
@@ -595,16 +636,48 @@
 
 	 <sentence name="PxWebDataSort" value="Sort data"/>
 	 <sentence name="PxWebSelectDb" value="Select database:"/>
-	 <sentence name="PxWebTableCropped" value="Note: The table has been cropped. A maximum of {0} rows and {1} columns can be displayed in the table on screen"/>
+	 <sentence name="PxWebTableCropped" value="The table has been cropped and a maximum of {0} rows and {1} columns is be displayed on screen. Use the scroll bar to see more columns"/>
 
 	 <sentence name="PxWebPopupDialogOk" value ="Ok"/>
-	 <sentence name="PxWebPopupDialogClose" value ="Close"/>
+  <sentence name="PxWebPopupDialogClose" value ="Close"/>
+  <sentence name="PxWebSelectVariable" value ="Select variable"/>
+  <sentence name="PxWebAboutTable" value ="About table"/>
+  <sentence name="PxWebShowTable" value ="Show table"/>
 
-	 <!-- PX-Web Administration -->
+  <sentence name="PxWebSearchControlLabel" value ="Search in {0}:"/>
+  <sentence name="PxWebSearchControlButtonText" value ="Search"/>
+  <sentence name="PxWebSearchAllFields" value ="Search all fields"/>
+  <sentence name="PxWebSearchSelection" value ="Only search"/>
+  <sentence name="PxWebSearchFieldTitle" value ="Table title"/>
+  <sentence name="PxWebSearchFieldValue" value ="Value text"/>
+  <sentence name="PxWebSearchFieldCode" value ="Value code"/>
+  <sentence name="PxWebSearchResultText" value ="Searchresult: ({0} hits)"/>
+  <sentence name="PxWebSearchResultColumnTable" value ="Table"/>
+  <sentence name="PxWebSearchResultColumnPublished" value ="Published"/>
+  <sentence name="PxWebTitleDefault" value ="PX-Web - Select database"/>
+  <sentence name="PxWebTitleApiHelp" value ="PX-Web - API help"/>
+  <sentence name="PxWebTitleChart" value ="PX-Web - Chart"/>
+  <sentence name="PxWebTitleDataSort" value ="PX-Web - Sort"/>
+  <sentence name="PxWebTitleErrorGeneral" value ="PX-Web - Oooops!"/>
+  <sentence name="PxWebTitleFootnotesPresentation" value ="PX-Web - Footnotes"/>
+  <sentence name="PxWebTitleFootnotesSelection" value ="PX-Web - Footnotes"/>
+  <sentence name="PxWebTitleInformationPresentation" value ="PX-Web - Information"/>
+  <sentence name="PxWebTitleInformationSelection" value ="PX-Web - Information"/>
+  <sentence name="PxWebTitleMarkingTips" value ="PX-Web - Tips"/>
+  <sentence name="PxWebTitleMenu" value ="PX-Web - Select table"/>
+  <sentence name="PxWebTitleSearch" value ="PX-Web - Search"/>
+  <sentence name="PxWebTitleSelection" value ="PX-Web - Select variable and values"/>
+  <sentence name="PxWebTitleTable" value ="PX-Web - Table"/>
+  <sentence name="PxWebSavedQueryUnsafeMessage" value ="The text in the table differs from the original in the database, because it has been changed manually"/>
+  <sentence name="PxWebGeneralErrorMessage" value ="An error has occurred. The error has been registered"/>
+  <sentence name="PxWebSavedQueryExecuteErrorMessage" value ="Your saved retrieval can not be found. The table can have been moved or removed."/>
+  <sentence name="PxWebReturnToStartpage" value ="Return to start page"/>
+
+  <!-- PX-Web Administration -->
 
 	 <sentence name="PxWebAdminLogout" value="Log out"/>
 	 <sentence name="PxWebAdminHeading" value="PX-Web Administration"/>
-	 <sentence name="PxWebAdminVersion" value="PX-Web 2013"/>
+	 <sentence name="PxWebAdminVersion" value="PX-Web 2015 May R1"/>
 	 <sentence name="PxWebAdminHomePage" value="PX-Web Homepage"/>
 	 <sentence name="PxWebAdminSaveButton" value="Save"/>
 	 <sentence name="PxWebAdminGenerateButton" value="Generate"/>
@@ -627,19 +700,26 @@
 	 <sentence name="PxWebAdminMenuSettingsPresentationCommandBar" value="CommandBar"/>
 	 <sentence name="PxWebAdminMenuTools" value="Tools"/>
 	 <sentence name="PxWebAdminMenuToolsGenerateDb" value="Generate database"/>
-  
-  
-  
-	 <sentence name="PxWebAdminMenuToolsLanguageManager" value="Language Manager"/>
+   <sentence name="PxWebAdminMenuSettingsNavigation" value="Navigation"/>
+
+
+
+  <sentence name="PxWebAdminMenuToolsLanguageManager" value="Language Manager"/>
 	 <sentence name="PxWebAdminMenuToolsReset" value="Reset"/>
 	 <sentence name="PxWebAdminMenuToolsChangePassword" value="Change password"/>
 	 <sentence name="PxWebAdminMenuFeatures" value="Features"/>
 	 <sentence name="PxWebAdminMenuFeaturesGeneral" value="General"/>
 	 <sentence name="PxWebAdminMenuFeaturesCharts" value="Charts"/>
 	 <sentence name="PxWebAdminMenuFeaturesChartsGeneral" value="General"/>
-	 <sentence name="PxWebAdminMenuFeaturesApi" value="API"/>
-	 <sentence name="PxWebAdminMenuFeaturesApiGeneral" value="General"/>
-	 <sentence name="PxWebPxLogin" value="PX-Web Login"/>
+  <sentence name="PxWebAdminMenuFeaturesApi" value="API"/>
+  <sentence name="PxWebAdminMenuFeaturesApiGeneral" value="General"/>
+  <sentence name="PxWebAdminMenuFeaturesSaveQuery" value="Saved Query"/>
+  <sentence name="PxWebAdminMenuFeaturesSaveQueryGeneral" value="General"/>
+  <sentence name="PxWebAdminMenuFeaturesSearch" value="Search"/>
+  <sentence name="PxWebAdminMenuFeaturesSearchGeneral" value="General"/>
+  <sentence name="PxWebAdminMenuFeaturesBackgroundWorker" value="Background worker process"/>
+  <sentence name="PxWebAdminMenuFeaturesBackgroundWorkerGeneral" value="General"/>
+  <sentence name="PxWebPxLogin" value="PX-Web Login"/>
 	 <sentence name="PxWebLogin" value="Login"/>
 	 <sentence name="PxWebUsername" value="Username"/>
 	 <sentence name="PxWebPassword" value="Password"/>
@@ -648,9 +728,15 @@
 	 <sentence name="PxWebAdminSettingsDatabasesPxDatabases" value="PX Databases"/>
 	 <sentence name="PxWebAdminSettingsDatabasesPxDatabasesInfo" value="Selected PX Databases will be displayed in PX-Web"/>
 	 <sentence name="PxWebAdminSettingsDatabasesCnmmDatabases" value="CNMM (Common Nordic Meta Model) Databases"/>
-	 <sentence name="PxWebAdminSettingsDatabasesCnmmDatabasesInfo" value="Selected CNMM Databases will be displayed in PX-Web"/>
+  <sentence name="PxWebAdminSettingsDatabasesCnmmDatabasesInfo" value="Selected CNMM Databases will be displayed in PX-Web"/>
+  <sentence name="PxWebAdminSettingsDatabasesEnabled" value="Enabled"/>
+  <sentence name="PxWebAdminSettingsDatabasesDbCreated" value="Db created"/>
+  <sentence name="PxWebAdminSettingsDatabasesIndexStatus" value="Index status"/>
+  <sentence name="PxWebAdminSettingsDatabasesAction" value="Action"/>
+  <sentence name="PxWebAdminSettingsDatabasesCreateIndex" value="Create index"/>
+  <sentence name="PxWebAdminSettingsDatabasesConfirmCreateIndex" value="Do you want to create a new search index?"/>
 
-	 <sentence name="PxWebAdminSettingsPathsLanguagePath" value="Language path"/>
+  <sentence name="PxWebAdminSettingsPathsLanguagePath" value="Language path"/>
 	 <sentence name="PxWebAdminSettingsPathsLanguagePathInfo" value="Path to directory containing the language files"/>
 	 <sentence name="PxWebAdminSettingsPathsImagePath" value="Image path"/>
 	 <sentence name="PxWebAdminSettingsPathsImagePathInfo" value="Path to directory containing the images"/>
@@ -712,10 +798,11 @@
 	 <sentence name="PxWebAdminSettingsGlobalRemoveSingleContent" value="Remove single content"/>
 	 <sentence name="PxWebAdminSettingsGlobalRemoveSingleContentInfo" value="Remove the content variable if it contains only one value"/>
 	 <sentence name="PxWebAdminSettingsGlobalStrictAggregationCheck" value="Strict aggregation check"/>
-	 <sentence name="PxWebAdminSettingsGlobalStrictAggregationCheckInfo" value="If strict check of aggregation files will be performed or not. If set to yes the aggregation files (.agg) must have the keyword 'valueset' set to the name of the current valueset, if it is not a match the aggregeation will not be added. "/>
+	 <sentence name="PxWebAdminSettingsGlobalStrictAggregationCheckInfo" value="If strict check of aggregation files will be performed or not. If set to yes the aggregation files (.agg) must have the keyword 'valueset' set to the name of the current valueset, if it is not a match the aggregation will not be added. "/>
 	 <sentence name="PxWebAdminSettingsGlobalShowInformationTypes" value="Show Information types"/>
 	 <sentence name="PxWebAdminSettingsGlobalShowInformationTypesInfo" value="Which Information types that shall be displayed in the information of the table"/>
-
+   <sentence name="PxWebAdminSettingsGlobalShowInfoFile" value="InfoFile"/>
+   <sentence name="PxWebAdminSettingsGlobalDetailedInformationInfo" value="Should a link to the infofile be displayed. If the metadata are displayed as links a link to the infofile will appear next to the footnotes link. If metadata shall appear in tabs the link to the infofile will appear under the information section in the About table tab. The link to the infofile is only shown on the selection page." />
 	 <sentence name="PxWebAdminSettingsAdministrationUseIPFilter" value="Use IP filter"/>
 	 <sentence name="PxWebAdminSettingsAdministrationUseIPFilterInfo" value="If IP filter shall be used when logging in to the administration pages or not"/>
 	 <sentence name="PxWebAdminSettingsAdministrationIPAddresses" value="IP addresses"/>
@@ -750,15 +837,22 @@
 	 <sentence name="PxWebAdminSettingsMenuNumberOfValuesInDefaultView" value="Number of default values"/>
 	 <sentence name="PxWebAdminSettingsMenuNumberOfValuesInDefaultViewInfo" value="Maximum number of values that are selected when Viewlink mode = 'Default values'. Values are preselected rather than allowing the users to select variables and values by themselves."/>
 	 <sentence name="PxWebAdminSettingsMenuShowModifiedDate" value="Show modified date"/>
-	 <sentence name="PxWebAdminSettingsMenuShowModifiedDateInfo" value="If the modified date shall be displayed or not"/>
+	 <sentence name="PxWebAdminSettingsMenuShowModifiedDateInfo" value="Defines if information about when the PX-file was last updated in the file system shall be displayed in PX-Web or not."/>
 	 <sentence name="PxWebAdminSettingsMenuShowLastUpdated" value="Show last updated"/>
-	 <sentence name="PxWebAdminSettingsMenuShowLastUpdatedInfo" value="If information about when the table was last updated shall be displayed or not"/>
-	 <sentence name="PxWebAdminSettingsMenuShowFileSize" value="Show file size"/>
-	 <sentence name="PxWebAdminSettingsMenuShowFileSizeInfo" value="If information about the filesize shall be displayed or not"/>
-	 <sentence name="PxWebAdminSettingsMenuShowVariablesAndValues" value="Show variables and values"/>
-	 <sentence name="PxWebAdminSettingsMenuShowVariablesAndValuesInfo" value="If information about variables and values within the table shall be displayed or not"/>
-
-	 <sentence name="PxWebAdminSettingsSelectionCellLimitScreen" value="Cell limit screen"/>
+	 <sentence name="PxWebAdminSettingsMenuShowLastUpdatedInfo" value="Defines if LAST-UPDATED in the PX-files shall be displayed in PX-Web or not"/>
+  <sentence name="PxWebAdminSettingsMenuShowFileSize" value="Show file size"/>
+  <sentence name="PxWebAdminSettingsMenuShowFileSizeInfo" value="If information about the filesize shall be displayed or not"/>
+  <sentence name="PxWebAdminSettingsMenuShowTableCategory" value="Show table category"/>
+  <sentence name="PxWebAdminSettingsMenuShowTableCategoryInfo" value="If information about the table category shall be displayed or not"/>
+  <sentence name="PxWebAdminSettingsMenuShowTableUpdatedAfterPublish" value="Show updated after publish"/>
+  <sentence name="PxWebAdminSettingsMenuShowTableUpdatedAfterPublishInfo" value="If tables that has been updated after they was published shall be marked in the menu or not"/>
+  <sentence name="PxWebAdminSettingsMenuShowVariablesAndValues" value="Show variables and values"/>
+  <sentence name="PxWebAdminSettingsMenuShowVariablesAndValuesInfo" value="If information about variables and values within the table shall be displayed or not"/>
+  <sentence name="PxWebAdminSettingsMenuMetadataAsIcons" value="Metadata as icons"/>
+  <sentence name="PxWebAdminSettingsMenuMetadataAsIconsInfo" value="If table metadata shall be displayed as icons after the table name. If set to 'Yes' icons will be displayed. If set to 'No' metadata will be dsipalyed as text."/>
+  <sentence name="PxWebAdminSettingsMenuShowTextToMetadata" value="If a explanation shall be displayd next to the metadata" />
+  <sentence name="PxWebAdminSettingsMenuShowTextToMetadataInfo" value="Show a explanatory text relevant to table metadata. For example, if set to 'Yes' the text 'Modified' is inserted before the table metadata modified date, if set to 'No' the table metadata is shown but no describing text." />
+  <sentence name="PxWebAdminSettingsSelectionCellLimitScreen" value="Cell limit screen"/>
 	 <sentence name="PxWebAdminSettingsSelectionCellLimitScreenInfo" value="The maximum number of cells that can be displayed on screen"/>
 	 <sentence name="PxWebAdminSettingsSelectionShowMandatoryMark" value="Show mandatory mark"/>
 	 <sentence name="PxWebAdminSettingsSelectionShowMandatoryMarkInfo" value="If mandatory variables shall be marked or not"/>
@@ -786,8 +880,14 @@
 	 <sentence name="PxWebAdminSettingsSelectionFileFormats" value="File formats:"/>
 	 <sentence name="PxWebAdminSettingsSelectionValuesetMustBeSelectedFirst" value="Valueset must be selected"/>
 	 <sentence name="PxWebAdminSettingsSelectionValuesetMustBeSelectedFirstInfo" value="If the variable has valuesets the user have to select valueset before values can be selected when this settings is set to true"/>
-	 <sentence name="PxWebAdminSettingsSelectionShowAllAvailableValuesSearchButton" value="Show 'All available values'"/>
-	 <sentence name="PxWebAdminSettingsSelectionShowAllAvailableValuesSearchButtonInfo" value="If the 'Show all available values' button in the search-view. Warning! settings this setting to true can result in big web pages that may be heavy to load."/>
+  <sentence name="PxWebAdminSettingsSelectionShowAllAvailableValuesSearchButton" value="Show 'All available values'"/>
+  <sentence name="PxWebAdminSettingsSelectionShowAllAvailableValuesSearchButtonInfo" value="Is the 'Show all available values' button in the search-view. Warning! settings this setting to true can result in big web pages that may be heavy to load."/>
+  <sentence name="PxWebAdminSettingsSelectionTitleFromMenu" value="Title from menu"/>
+  <sentence name="PxWebAdminSettingsSelectionTitleFromMenuInfo" value="If set to true, the table title will be displayed as it was displayed in the menu"/>
+  <sentence name="PxWebAdminSettingsSelectionMetadataAsLinks" value="Metdata as links"/>
+  <sentence name="PxWebAdminSettingsSelectionMetadataAsLinksInfo" value="If table metadata (footnotes and information) shall be displayed as links or directly within the selection page."/>
+  <sentence name="PxWebAdminSettingsNavigationNavigationFlowVisible" value="Show Navigation flow" />
+   <sentence name="PxWebAdminSettingsNavigationNavigationFlowVisibleInfo" value="Show Navigation flow below bread crumb. Displays the Select table, select the variable, show table " />
 
 	 <sentence name="PxWebAdminSettingsSelectionSearchButtonMode" value="Search button mode"/>
 	 <sentence name="PxWebAdminSettingsSelectionSearchButtonModeManyValues" value="Many values"/>
@@ -800,7 +900,7 @@
 	 <sentence name="PxWebAdminSettingsValidationIntegerValue" value="Must be an integer value"/>
 	 <sentence name="PxWebAdminSettingsValidationTooLargeIntegerValue" value="Cannot be bigger than 2147483647"/>
 	 <sentence name="PxWebAdminSettingsValidationGreaterThanZero" value="Must be a value above 0"/>
-	 <sentence name="PxWebAdminSettingsValidationIllegalCharacter" value="Contains illegal character"/>
+	 <sentence name="PxWebAdminSettingsValidationIllegalCharacter" value="The search contains illegal character"/>
 	 <sentence name="PxWebAdminSettingsValidationBiggerThanMaxSetting" value="Cannot be bigger than the maximum setting ({0})"/>
 	 <sentence name="PxWebAdminSettingsValidationMaximumValue" value="Maximum value is {0}"/>
 	 <sentence name="PxWebAdminSettingsValidationIllegalColorCode" value="Illegal color code (expected format is #AAAAAA)"/>
@@ -834,11 +934,11 @@
 	 <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderFileFormatDropDown" value="Drop down"/>
 	 <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderFileFormatShortcut" value="Shortcut"/>
 
-	 <sentence name="PxWebAdminSettingsPresentationGeneralPromptNotes" value="Prompt for madantory footnotes"/>
+	 <sentence name="PxWebAdminSettingsPresentationGeneralPromptNotes" value="Prompt for mandatory footnotes"/>
 	 <sentence name="PxWebAdminSettingsPresentationGeneralPromptNotesInfo" value="If madantory footnotes should be prompted to the user when the table is displayed"/>
 
 	 <sentence name="PxWebAdminSettingsPresentationTableTransform" value="Table transformation"/>
-	 <sentence name="PxWebAdminSettingsPresentationTableTransformInfo" value="If the table should be automaticly transformed before it displays to the user"/>
+	 <sentence name="PxWebAdminSettingsPresentationTableTransformInfo" value="If the table should be automatically transformed before it displays to the user"/>
 	 <sentence name="PxWebAdminSettingsPresentationTableTransformNoTransformation" value="No transformation"/>
 	 <sentence name="PxWebAdminSettingsPresentationTableTransformSingleValueFirst" value="Single values first"/>
 	 <sentence name="PxWebAdminSettingsPresentationTableTransformSingleValueFirstAndHeaderOnlyOneMultiple" value="Only one multi valued variable in the header"/>
@@ -868,7 +968,9 @@
   <sentence name="PxWebAdminSortOrderMatrix" value="Matrix"/>
   <sentence name="PxWebAdminSortOrderTitle" value="Title"/>
   <sentence name="PxWebAdminToolsGenerateDbSortOrderInfo" value="Select the key that will be used to create the sort order for the tables."/>
-
+  <sentence name="PxWebAdminToolsGenerateDbCreateIndex" value="Create search index"/>
+  <sentence name="PxWebAdminToolsGenerateDbCreateIndexInfo" value="If selected, search index creation will be automatically initiated after the database has been generated."/>
+  <sentence name="PxWebAdminToolsGenerateDbCreateIndexInitiated" value="Search index creation has been initiated"/>
 
   <sentence name="PxWebAdminToolsLanguageManagerSelectLanguage" value="--- Select language ---" />
 	 <sentence name="PxWebAdminToolsLanguageManagerInfo" value="Select which language you want to edit. Key = the key that identifies a sentence in the system, Fallback = the sentence that will be used if no translation is done, Language = The sentence in the currently selected language." />
@@ -898,9 +1000,13 @@
 	 <sentence name="PxWebAdminFeaturesGeneralFeatureInfo" value="Selected features will be available in the administration tool and in PX-Web" />
 	 <sentence name="PxWebAdminFeaturesGeneralFeatureCharts" value="Charts" />
 	 <sentence name="PxWebAdminFeaturesGeneralFeatureApi" value="API" />
-	 <sentence name="PxWebAdminFeaturesGeneralFeatureUserFriendlyUrls" value="User friendly URL:s" />
+   <sentence name="PxWebAdminFeaturesGeneralFeatureSavedQuery" value="Saved Query" />
+  <sentence name="PxWebAdminFeaturesGeneralFeatureUserFriendlyUrls" value="User friendly URL:s" />
+  <sentence name="PxWebAdminFeaturesGeneralFeatureUserStatistics" value="User statistics" />
+  <sentence name="PxWebAdminFeaturesGeneralFeatureSearch" value="Search" />
+  <sentence name="PxWebAdminFeaturesGeneralFeatureBackgroundWorker" value="Background worker process" />
 
-	 <sentence name="PxWebAdminFeaturesChartsGeneralChartSettings" value="Chart settings" />
+  <sentence name="PxWebAdminFeaturesChartsGeneralChartSettings" value="Chart settings" />
 	 <sentence name="PxWebAdminFeaturesChartsGeneralUserSettings" value="Default values for user settings" />
 	 <sentence name="PxWebAdminFeaturesChartsGeneralFontName" value="Font name" />
 	 <sentence name="PxWebAdminFeaturesChartsGeneralFontNameInfo" value="The font used in the chart" />
@@ -982,10 +1088,44 @@
 	 <sentence name="PxWebAdminFeaturesApiGeneralClearCache" value="Clear cache" />
 	 <sentence name="PxWebAdminFeaturesApiGeneralClearCacheInfo" value="If specified the cache will be cleared at the specified time(s). Separate times with semi colon. Example: 09:30;12:00;13:49" />
 	 <sentence name="PxWebAdminFeaturesApiGeneralShowQueryInformation" value="Show API help" />
-	 <sentence name="PxWebAdminFeaturesApiGeneralShowQueryInformationInfo" value="If enabled a information link is displayed in PX-Web in the presentation views. When the link is clicked information about how to access the current table via the API is displayed." />
+   <sentence name="PxWebAdminFeaturesApiGeneralShowQueryInformationInfo" value="If enabled a information link is displayed in PX-Web in the presentation views. When the link is clicked information about how to access the current table via the API is displayed." />
+
+   <sentence name="PxWebAdminFeaturesSaveQueryGeneralSaveQuerySettings" value="Saved Query settings" />
+   <sentence name="PxWebAdminSettingsSavedQueryStorageType" value="Storage type" />
+   <sentence name="PxWebAdminSettingsSavedQueryStorageTypeFile" value="File" />
+   <sentence name="PxWebAdminSettingsSavedQueryStorageTypeDatabase" value="Database" />
+   <sentence name="PxWebAdminSettingsSavedQueryStorageTypeInfo" value="Defines if saved queries will be stored in files on the web server or in a database" />
+   <sentence name="PxWebAdminFeaturesSaveQueryGeneralSaveQueryPxDatabases" value="PX databases" />
+   <sentence name="PxWebAdminFeaturesSaveQueryGeneralSaveQueryPxDatabasesInfo" value="Defines which PX databases that will have the saved query function available" />
+   <sentence name="PxWebAdminFeaturesSaveQueryGeneralSaveQueryCnmmDatabases" value="CNMM databases" />
+   <sentence name="PxWebAdminFeaturesSaveQueryGeneralSaveQueryCnmmDatabasesInfo" value="Defines which CNMM databases that will have the saved query function available" />
+  
+  <sentence name="PxWebAdminFeaturesSearchGeneralSearchSettings" value="Search settings" />
+  <sentence name="PxWebAdminFeaturesSearchGeneralCacheTime" value="Cache time" />
+  <sentence name="PxWebAdminFeaturesSearchGeneralCacheTimeInfo" value="Time in minutes that the search index will be cached" />
+  <sentence name="PxWebAdminFeaturesSearchGeneralResultListLength" value="Max list length" />
+  <sentence name="PxWebAdminFeaturesSearchGeneralResultListLengthInfo" value="Maximum number of tables that will be displayed in the search result list" />
+  <sentence name="PxWebAdminFeaturesSearchGeneralDefaultOperator" value="Default operator" />
+  <sentence name="PxWebAdminFeaturesSearchGeneralDefaultOperatorInfo" value="The operator AND/OR that will be used by default when more than one word is included in a search query" />
+  <sentence name="PxWebAdminFeaturesSearchGeneralDefaultOperatorAnd" value="AND" />
+  <sentence name="PxWebAdminFeaturesSearchGeneralDefaultOperatorOr" value="OR" />
+
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralSettings" value="Background worker process settings" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralSleepTime" value="Sleep time" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralSleepTimeInfo" value="The time in seconds the worker process shall sleep between iterations" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralStatus" value="Status:" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralStatusInfo" value="Describes the current status of the background worker process" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralCurrentActivity" value="Current activity:" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralCurrentActivityInfo" value="What the background worker process is doing right now" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerStop" value="Stop" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerRestart" value="Restart" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerWakeUp" value="Wake up" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerConfirmStop" value="Do you want to stop the background worker process?" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerConfirmStart" value="Do you want to start the background worker process?" />
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerConfirmWakeUp" value="Do you want to wake up the background worker process?" />
 
 
-	 <sentence name="PxWebAdminSettingsGeneralSiteApplicationName" value="Application name"/>
+  <sentence name="PxWebAdminSettingsGeneralSiteApplicationName" value="Application name"/>
 	 <sentence name="PxWebAdminSettingsGeneralSiteApplicationNameInfo" value="Name of the PX-Web installation"/>
 	 <sentence name="PxWebAdminSettingsGeneralSiteLogoPath" value="Logo path"/>
 	 <sentence name="PxWebAdminSettingsGeneralSiteLogoPathInfo" value="Name of the image file"/>
@@ -1015,4 +1155,27 @@
 
 	 <sentence name="PxWebAdminSettingsImplementedInComingVersions" value="This feature will be implemented in a coming version of PX-Web"/>
 
+  <sentence name="UnauthorizedTableMessage" value="You are not authorized to view this table!"/>
+  <sentence name="UnauthorizedTableTitle" value="Unauthorized"/>
+
+  <sentence name="UnauthorizedDatabaseMessage" value="You are not authorized to view this database!"/>
+  <sentence name="UnauthorizedDatabaseTitle" value="Unauthorized"/>
+
+  <sentence name="PxWebAdminUsers" value="Users"/>
+  <sentence name="PxWebAdminUsersGeneral" value="General"/>
+  <sentence name="PxWebAdminUsersUsername" value="Username"/>
+  <sentence name="PxWebAdminUsersPassword" value="Password"/>
+  <sentence name="PxWebAdminUsersMail" value="E-mail"/>
+  <sentence name="PxWebAdminUsersLocked" value="Locked"/>
+  <sentence name="PxWebAdminUsersCreateNewUser" value="Create new user"/>
+  <sentence name="PxWebAdminUsersCreateNew" value="Create"/>
+  <sentence name="PxWebAdminUsersAdmin" value="Admin"/>
+  <sentence name="PxWebAdminUsersDelete" value="Delete"/>
+  <sentence name="PxWebAdminUsersEdit" value="Edit"/>
+  <sentence name="PxWebAdminUsersUpdate" value="Update"/>
+  <sentence name="PxWebAdminUsersCancel" value="Cancel"/>
+  <sentence name="PxWebAdminUsersErrorMail" value="Invalid e-mail"/>
+  <sentence name="PxWebAdminUsersLogin" value="Login"/>
+  <sentence name="PxWebAdminUsersAddedUser" value="has been added as a user"/>
+  
 </language>

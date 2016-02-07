@@ -1,0 +1,1109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<language xmlns="http://www.pc-axis.scb.se/" name="fo">
+  <sentence name="CtrlCommandBarFunctionChangeTextPresentation" value="Broyta tekstir"/>
+  <sentence name="CtrlChangeTextsHeading" value="Broyta tekstir"/>
+  <sentence name="CtrlChangeTextsText" value="Ger broytingar í tekstirnar og trýst 'Halt áfram'"/>
+  <sentence name="CtrlChangeTextsContinueButton" value="Halt áfram"/>
+  <sentence name="CtrlChangeTextsContentsHeading" value="Innihald"/>
+  <sentence name="CtrlChangeTextsUnitsHeading" value="Eind"/>
+  <sentence name="CtrlChangeTextsVariablesHeading" value="Greiningar"/>
+  <sentence name="CtrlChangePresentationContinueButton" value="Halt áfram"/>
+  <sentence name="CtrlChangePresentationContentsHeading" value="Innihald"/>
+  <sentence name="CtrlChangePresentationUnitsHeading" value="Eind"/>
+  <sentence name="CtrlChangePresentationVariablesHeading" value="Greiningar"/>
+  <sentence name="CtrlCommandBarFunctionChangeCodeTextPresentation" value="Broyt tekst/kotu-vísing"/>
+  <sentence name="CtrlCommandBarFunctionChangeCodeTextHeading" value="Broyt tekst/kotu-vísing"/>
+  <sentence name="CtrlChangePresentationChangeCodeTextsText" value="Vel ein valmøguleika fyri hvørja greining, tú vilt broyta vísing fyri"/>
+  <sentence name="CtrlChangeCodeTextPresentationText" value="Tekstur"/>
+  <sentence name="CtrlChangeCodeTextPresentationCode" value="Kota"/>
+  <sentence name="CtrlChangeCodeTextPresentationCodeAndText" value="Kota og tekstur"/>
+  <sentence name="CtrlChangeDecimalContinueButton" value="Halt áfram"/>
+  <sentence name="CtrlChangeDecimalHeading" value="Broyta desimalar"/>
+  <sentence name="CtrlChangeDecimalHeaderLabel" value="Skriva talið á desimalum og trýst á 'Halt áfram'"/>
+  <sentence name="CtrlChangeDecimalDecimalLabel" value="Tal av desimalum (0-6)"/>
+  <sentence name="CtrlChangeDecimalRangeError" value="Talið skal vera heilt tal millum 0 og 6"/>
+  <sentence name="CtrlCommandBarFunctionChangeDecimal" value="Broyta desimalar"/>
+  <sentence name="CtrlCommandBarFunctionDeleteVariable" value="Strika greining"/>
+  <sentence name="CtrlDeleteVariableHeaderLabel" value="Marka greining og virðið at brúka, tá greiningin er strikað"/>
+  <sentence name="CtrlDeleteVariableAddToTitleLabel" value="Legg virðið aftrat í talvuheitinum"/>
+  <sentence name="CtrlDeleteVariableContinueButton" value="Halt áfram"/>
+  <sentence name="CtrlDeleteVariableErrorDescription" value="Tú mást velja í minsta lagi eina greining og eitt virði"/>
+  <sentence name="CtrlDeleteVariableOneVariable" value="Tú kanst ikki strika allar greiningar, minst ein má vera eftir"/>
+  <sentence name="CtrlCommandBarFunctionDeleteValue" value="Strika virði"/>
+  <sentence name="CtrlDeleteValueHeaderLabel" value="Vel eitt ella fleiri virði at strika. Tú kanst ikki velja øll virðini fyri eina greining. Til hetta mást tú nýta Strika greining."/>
+  <sentence name="CtrlDeleteValueErrorDescription" value="Tú kanst ikki strika øll virðini í einari greining."/>
+  <sentence name="CtrlDeleteValueContinueButton" value="Halt áfram"/>
+  <sentence name="CtrlCommandBarFunctionPerPart" value="Prosent"/>
+  <sentence name="CtrlPerPartContinueButton" value="Halt áfram"/>
+  <sentence name="CtrlPerPartNewValueName" value="Navn á nýggjum virði"/>
+  <sentence name="CtrlPerPartKeepData" value="Vís upprunaligar dátur og prosent"/>
+  <sentence name="CtrlPerPartPerCentOnly" value="Vís bara prosent"/>
+  <sentence name="CtrlPerPartOneVariableAllValues" value="Vel eina greining at grunda prosentrokningina á"/>
+  <sentence name="CtrlPerPartOneVariableOneValue" value="Vel greininga, har tú vilt velja eitt virði sum grundarlag"/>
+  <sentence name="CtrlPerPartOneMatrixValue" value="Vel ein dátupunt sum grundarlag, vel eitt virði fyri hvørja greining."/>
+  <sentence name="CtrlCommandBarEditAndCalulateCaption" value="Rætta og rokna"/>
+  <sentence name="CtrlCommandBarSaveAsCaption" value="Goym talvu sum"/>
+  <sentence name="CtrlCommandBarGraphsAndMapsCaption" value="Fleiri møguleikar"/>
+  <sentence name="CtrlCommandBarActionButtonCaption" value="Send"/>
+  <sentence name="CtrlCommandBarPluginSelectorOkButtonCaption" value="Í lagi"/>
+  <sentence name="CtrlCommandBarDownloadFileTitle" value="Goym fílu"/>
+  <sentence name="CtrlCommandBarDownloadFileInformation" value="Trýst á 'Goym fílu' fyri at heinta fíluna til telduna"/>
+  <sentence name="CtrlCommandBarDownloadFileLink" value="Goym fílu"/>
+  <sentence name="CtrlCommandBarFunctionPivotManual" value="Snúgva frítt"/>
+  <sentence name="CtrlCommandBarFunctionPivotManualTitle" value="Snúgva frítt"/>
+  <sentence name="CtrlCommandBarFunctionPivotManualAlt" value="Snúgva frítt"/>
+  <sentence name="CtrlCommandBarFunctionPivotCW" value="Snúgv við sólini"/>
+  <sentence name="CtrlCommandBarFunctionPivotCWTitle" value="Snúgv við sólini"/>
+  <sentence name="CtrlCommandBarFunctionPivotCWAlt" value="Snúgv við sólini"/>
+  <sentence name="CtrlCommandBarFunctionPivotCCW" value="Snúgv móti sólini"/>
+  <sentence name="CtrlCommandBarFunctionPivotCCWTitle" value="Snúgv móti sólini"/>
+  <sentence name="CtrlCommandBarFunctionPivotCCWAlt" value="Snúgv móti sólini"/>
+  <sentence name="CtrlCommandBarFunctionShowAllRows" value="Vís øll røðini"/>
+  <sentence name="CtrlCommandBarFunctionShowAllRowsTitle" value="Vís øll røðini"/>
+  <sentence name="CtrlCommandBarFunctionShowAllRowsAlt" value="Vís øll røðini"/>
+  <sentence name="CtrlCommandBarFunctionRemoveZero" value="Strika røð við bara nullum"/>
+  <sentence name="CtrlCommandBarFunctionRemoveZeroTitle" value="Strika røð við bara nullum"/>
+  <sentence name="CtrlCommandBarFunctionRemoveZeroAlt" value="Strika røð við bara nullum"/>
+  <sentence name="CtrlCommandBarFunctionRemoveZeroAndHyphen" value="Strika røð við null ella '-'"/>
+  <sentence name="CtrlCommandBarFunctionRemoveZeroAndHyphenTitle" value="Strika røð við null ella '-'"/>
+  <sentence name="CtrlCommandBarFunctionRemoveZeroAndHyphenAlt" value="Strika røð við null ella '-'"/>
+  <sentence name="CtrlCommandBarFunctionRemoveDots" value="Strika røð við prikkum"/>
+  <sentence name="CtrlCommandBarFunctionRemoveDotsTitle" value="Strika røð við prikkum"/>
+  <sentence name="CtrlCommandBarFunctionRemoveDotsAlt" value="Strika røð við prikkum"/>
+  <sentence name="CtrlCommandBarFunctionRemoveZeroHyphenAndDots" value="Strika røð við null, '-' ella prikkum"/>
+  <sentence name="CtrlCommandBarFunctionRemoveZeroHyphenAndDotsTitle" value="Strika røð við null, '-' ella prikkum"/>
+  <sentence name="CtrlCommandBarFunctionRemoveZeroHyphenAndDotsAlt" value="Strika røð við null, '-' ella prikkum"/>
+  <sentence name="CtrlCommandBarFunctionSort" value="Raðskipa"/>
+  <sentence name="CtrlCommandBarFunctionSortTitle" value="Raðskipa"/>
+  <sentence name="CtrlCommandBarFunctionSum" value="Telja greiningavirði saman"/>
+  <sentence name="CtrlCommandBarFunctionSumTitle" value="Telja greiningavirði saman"/>
+  <sentence name="CtrlCommandBarFunctionSumAlt" value="Telja greiningavirði saman"/>
+  <sentence name="CtrlCommandBarFunctionSubtract" value="Draga greiningavirði frá"/>
+  <sentence name="CtrlCommandBarFunctionDivide" value="Býta greiningavirði"/>
+  <sentence name="CtrlCommandBarFunctionMultiply" value="Falda greiningavirði"/>
+  <sentence name="CtrlCommandBarFunctionSortAlt" value="Raðskipa"/>
+  <sentence name="CtrlCommandBarFunctionSwitchLayout" value="Vís talvuna við aðrari útsjónd"/>
+  <sentence name="CtrlCommandBarFunctionSwitchLayoutAlt" value="Vís talvuna við aðrari útsjónd"/>
+  <sentence name="CtrlCommandBarFunctionSwitchLayoutTitle" value="Vís talvuna við aðrari útsjónd"/>
+  <sentence name="CtrlCommandBarFunctionLinkGoogle" value="Google(Testa Leinki)"/>
+  <sentence name="CtrlCommandBarFunctionChangeValueOrder" value="Broyt virðisraðfylgju"/>
+  <sentence name="CtrlCommandBarFileTypeXlsTitle" value="Goym sum Excel-fílu"/>
+  <sentence name="CtrlCommandBarFileTypeXlsAlt" value="Goym sum Excel-fílu"/>
+  <sentence name="CtrlCommandBarFileTypePxTitle" value="Goym sum PC-axis-fílu"/>
+  <sentence name="CtrlCommandBarFileTypePXAlt" value="Goym sum PC-axis-fílu"/>
+  <sentence name="CtrlCommandBarFileTypeJsonStatTitle" value="Goym sum JSON-stat"/>
+  <sentence name="CtrlCommandBarFileTypeJsonStatAlt" value="Goym sum JSON-stat"/>
+  <sentence name="CtrlCommandBarFileTypeTxtTitle" value="Goym sum tekst"/>
+  <sentence name="CtrlCommandBarFileTypeTxtAlt" value="Goym sum tekst"/>
+  <sentence name="CtrlCommandBarFileTypeCsvTitle" value="Goym sum teigamarkaða fílu"/>
+  <sentence name="CtrlCommandBarFileTypeCsvAlt" value="Goym sum teigamarkaða fílu"/>
+  <sentence name="CtrlCommandBarFileTypeHtmlTitle" value="Goym sum Html-fílu"/>
+  <sentence name="CtrlCommandBarFileTypeHtmlAlt" value="Goym sum Html-fílu"/>
+  <sentence name="CtrlCommandBarFileTypeRelationalTitle" value="Goym sum relatións-fílu"/>
+  <sentence name="CtrlCommandBarFileTypeRelationallAlt" value="Goym sum relatións-fílu"/>
+  <sentence name="CtrlPresentationViewTableLayout1" value="Talva - Uppseting 1"/>
+  <sentence name="CtrlPresentationViewTableLayout2" value="Talva - Uppseting 2"/>
+  <sentence name="CtrlPresentationViewTableSorted" value="Talva - Raðskipað"/>
+  <sentence name="CtrlPresentationViewChartColumn" value="Talmynd - Súlumynd"/>
+  <sentence name="CtrlPresentationViewChartColumnStacked" value="Talmynd - Stáplaðar súlur"/>
+  <sentence name="CtrlPresentationViewChartColumnStacked100" value="Talmynd - Stáplaðar súlur 100%"/>
+  <sentence name="CtrlPresentationViewChartBar" value="Talmynd - Liggjandi súlumynd"/>
+  <sentence name="CtrlPresentationViewChartBarStacked" value="Talmynd - Liggjandi stáplaðar súlur"/>
+  <sentence name="CtrlPresentationViewChartBarStacked100" value="Talmynd - Liggjandi stáplaðar súlur 100%"/>
+  <sentence name="CtrlPresentationViewChartLine" value="Talmynd - Linjumynd"/>
+  <sentence name="CtrlPresentationViewChartColumnLine" value="Talmynd - Súlur og linjur (2 ásir)"/>
+  <sentence name="CtrlPresentationViewChartPopulationPyramid" value="Talmynd - Fólkapýramida"/>
+  <sentence name="CtrlPresentationViewChartPie" value="Talmynd - Lagkøkumynd"/>
+  <sentence name="CtrlPresentationViewChartArea" value="Talmynd - Lendi"/>
+  <sentence name="CtrlPresentationViewChartAreaStacked" value="Talmynd - Stáplað lendi"/>
+  <sentence name="CtrlPresentationViewChartAreaStacked100" value="Talmynd - Stáplað lendi 100%"/>
+  <sentence name="CtrlPresentationViewChartPoint" value="Talmynd - Punkt"/>
+  <sentence name="CtrlPresentationViewChartRadar" value="Talmynd - Radar"/>
+  <sentence name="CtrlCommandBarLinkFootnoteTitle" value="Viðmerkingar"/>
+  <sentence name="CtrlCommandBarLinkFootnoteAlt" value="Viðmerkingar"/>
+  <sentence name="CtrlCommandBarLinkGraphTitle" value="Talmynd"/>
+  <sentence name="CtrlCommandBarLinkGraphAlt" value="Talmynd"/>
+  <sentence name="CtrlCommandBarLinkInformationTitle" value="Upplýsingar"/>
+  <sentence name="CtrlCommandBarLinkInformationAlt" value="Upplýsingar"/>
+  <sentence name="CtrlCommandBarLinkPrintTitle" value="Skriva út"/>
+  <sentence name="CtrlCommandBarLinkPrintAlt" value="Skriva út"/>
+  <sentence name="CtrlCommandBarLinkGoogleTitle" value="Google"/>
+  <sentence name="CtrlCommandBarLinkGoogleAlt" value="Google"/>
+  <sentence name="CtrlCommandBarFileDownLoadLink" value="Trýst her fyri at taka fíluna niður"/>
+  <sentence name="CtrlFootnoteFootnoteLabel" value="Viðmerkingar"/>
+  <sentence name="CtrlFootnoteNoFootnotesLabel" value="Ongar viðmerkingar eru"/>
+  <sentence name="CtrlHierarchicalVariableSelectAllButton" value="Vel alt"/>
+  <sentence name="CtrlHierarchicalVariableUnselectAllButton" value="Vel einki"/>
+  <sentence name="CtrlHierarchicalVariableOpenAllNodesButton" value="Lat alt upp"/>
+  <sentence name="CtrlHierarchicalVariableCloseAllNodesButton" value="Lat alt aftur"/>
+  <sentence name="CtrlHierarchicalVariableContinueButtonText" value="Halt áfram"/>
+  <sentence name="CtrlHierarchicalVariableErrorMessage" value="Ein villa er komin í, far aftur til byrjan og vel umaftur"/>
+  <sentence name="CtrlInformationInformationLabel" value="Upplýsingar"/>
+  <sentence name="CtrlInformationOfficialStatisticsLabel" value="Almenn hagtøl"/>
+  <sentence name="CtrlInformationUnitLabel" value="Eind"/>
+  <sentence name="CtrlInformationContactLabel" value="Kontakt"/>
+  <sentence name="CtrlInformationLastUpdatedLabel" value="Seinast dagført"/>
+  <sentence name="CtrlInformationRefPeriodLabel" value="Tilvísingartíðarskeið"/>
+  <sentence name="CtrlInformationStockFaLabel" value="Dátuslag"/>
+  <sentence name="CtrlInformationCFPricesLabel" value="Prísslag"/>
+  <sentence name="CtrlInformationDayAdjLabel" value="Kalendartillagað"/>
+  <sentence name="CtrlInformationSeasAdjLabel" value="Árstíðarjavnað"/>
+  <sentence name="CtrlInformationBasePeriodLabel" value="Støðisár"/>
+  <sentence name="CtrlInformationUpdateFrequencyLabel" value="Verður dagførd"/>
+  <sentence name="CtrlInformationNextUpdateLabel" value="Komandi dagføring"/>
+  <sentence name="CtrlInformationSurveyLabel" value="Survey"/>
+  <sentence name="CtrlInformationLinkLabel" value="Leinki"/>
+  <sentence name="CtrlInformationCreationDateLabel" value="Stovnað"/>
+  <sentence name="CtrlInformationCopyrightLabel" value="Upphavsrættur"/>
+  <sentence name="CtrlInformationSourceLabel" value="Kelda"/>
+  <sentence name="CtrlInformationMatrixLabel" value="Matrisa"/>
+  <sentence name="CtrlInformationDatabaseLabel" value="Dátustovnur"/>
+  <sentence name="CtrlInformationYesValue" value="Ja"/>
+  <sentence name="CtrlInformationNoValue" value="Nei"/>
+  <sentence name="CtrlInformationFixedPricesValue" value="Fastir prísir"/>
+  <sentence name="CtrlInformationCurrentPricesValue" value="Dagsprísir"/>
+  <sentence name="CtrlInformationFlowValue" value="Streymur"/>
+  <sentence name="CtrlInformationAverageValue" value="Miðal"/>
+  <sentence name="CtrlInformationStockValue" value="Stovnur"/>
+  <!--  <sentence name"CtrlChangeValueOrderChooseVariableButton" value="Vel greining:"/>
+  <sentence name="CtrlChangeValueOrderHideButton" value="Í lagi"/>
+  <sentence name="CtrlChangeValueOrderUpAlt" value="Flyt uppeftir"/>
+  <sentence name="CtrlChangeValueOrderDownAlt" value="Flyt niðureftir"/> -->
+  <sentence name="CtrlChangeValueOrderInstructionChooseVariable" value="Vel greining:"/>
+  <sentence name="CtrlChangeValueOrderInstructionChangeOrder" value="Vel virðisraðfylgju við at flyta virðini úr øðrum listanum yvir í hin. Tey virðini, ið ikki eru flutt av Frá-listanum, koma fremst í talvuni."/>
+  <sentence name="CtrlChangeValueOrderCancelButton" value="Ógilda"/>
+  <sentence name="CtrlChangeValueOrderContinueButton" value="Halt áfram"/>
+  <sentence name="CtrlChangeValueOrderMoveRight" value="Flyt til høgru"/>
+  <sentence name="CtrlChangeValueOrderMoveLeft" value="Flyt til vinstru"/>
+  <sentence name="CtrlChangeValueOrderMoveDown" value="Flyt niðureftir"/>
+  <sentence name="CtrlChangeValueOrderFromOrder" value="Frá-raðfylgja"/>
+  <sentence name="CtrlChangeValueOrderToOrder" value="Til-raðfylgja"/>
+  <sentence name="CtrlPivotContinueButton" value="Halt áfram"/>
+  <sentence name="CtrlPivotStubLabel" value="Røð"/>
+  <sentence name="CtrlPivotHeadingLabel" value="Teigar"/>
+  <sentence name="CtrlSaveAsSaveTypeListHeadLabel" value="Goym sum fíluslag:"/>
+  <sentence name="CtrlSaveAsDelimiterListHeadLabel" value="Vel teigamarkara til teigamarkaða fílu:"/>
+  <sentence name="CtrlSaveAsPageSetupHeadLabel" value="Fyri tekst-fílu vel eisini:"/>
+  <sentence name="CtrlSaveAsLineLengthControl" value="Linjulongd"/>
+  <sentence name="CtrlSaveAsPageLengthControl" value="Síðulongd"/>
+  <sentence name="CtrlSaveAsMarginControl" value="Síðubreddi"/>
+  <sentence name="CtrlSaveAsSaveTypeListBox" value=""/>
+  <sentence name="CtrlSaveAsDelimiterListBox" value=""/>
+  <sentence name="CtrlSaveAsContinueButton" value="Goym"/>
+  <sentence name="CtrlSaveAsCancelButton" value="Ógilda"/>
+  <sentence name="CtrlSaveAsButtonLabel" value="Vel valmøguleika og trýst"/>
+  <sentence name="CtrlSaveAsSaveTypeDropDown" value="Goym sum fíluslag"/>
+  <sentence name="CtrlSaveAsDelimiterDropDown" value="Vel avmarkara"/>
+  <sentence name="CtrlSaveAsSaveTypeDropDownButton" value="Halt áfram"/>
+  <sentence name="SumInvalidValuename" value="Tað nýggja virðið má vera einnevnt fyri greiningina"/>
+  <sentence name="CtrlSumHeading" value="Tel eina greining saman"/>
+  <sentence name="CtrlSumTotalVariabelNameText" value="Navn á nýggjum virði:"/>
+  <sentence name="CtrlSumAllValuesText" value="Tel øll virðini saman"/>
+  <sentence name="CtrlSumSelectedValuesText" value="Tel valdu virðini saman"/>
+  <sentence name="CtrlSumSelectedVariabelTitle" value="Vel greining at telja saman"/>
+  <sentence name="CtrlSumSelectedVariabelValuesTitle" value="Vel virði at telja saman"/>
+  <sentence name="CtrlSumVariableNameRequired" value="Nýggja virðið má hava eitt navn"/>
+  <sentence name="CtrlSumDifferentOperandsRequired" value="Tað krevjast tvey ymisk virði"/>
+  <sentence name="CtrlSumContinueButton" value="Tel saman"/>
+  <sentence name="CtrlSumKeepValuesText" value="Vís eisini upprunavirðini"/>
+  <sentence name="CtrlFirstOperandLabel" value="Fyrra virðið:"/>
+  <sentence name="CtrlSecondOperandLabel" value="Seinna virðið:"/>
+  <sentence name="CtrlSubtractHeading" value="Drag virðini frá"/>
+  <sentence name="CtrlSubtractTotalVariabelNameText" value="Skriva ein tekst til úrslitið (munin)"/>
+  <sentence name="CtrlSubtractSelectedVariabelTitle" value="Vel greinina,har dragast skal frá"/>
+  <sentence name="CtrlSubtractSelectedVariabelValuesTitle" value="Vel 2 virði: [Fyrra] minus [Seinna]"/>
+  <sentence name="CtrlSubtractContinueButton" value="Drag frá"/>
+  <sentence name="CtrlDivideHeading" value="Býta greiningavirði"/>
+  <sentence name="CtrlDivideTotalVariabelNameText" value="Skriva ein tekst til úrslitið (býtingartalið)"/>
+  <sentence name="CtrlDivideSelectedVariabelTitle" value="Vel greinina,har býtast skal"/>
+  <sentence name="CtrlDivideSelectedVariabelValuesTitle" value="Vel 2 virði: [Fyrra] býtt við [Seinna]"/>
+  <sentence name="CtrlDivideErrorSameVariable" value="Kann ikki býta við sama virði. Vel tvey ymisk virði."/>
+  <sentence name="CtrlDivideContinueButton" value="Být"/>
+  <sentence name="CtrlMultiplyHeading" value="Falda virðini"/>
+  <sentence name="CtrlMultiplyTotalVariabelNameText" value="Skriva ein tekst til úrslitið (faldið)"/>
+  <sentence name="CtrlMultiplySelectedVariabelTitle" value="Vel eina greining, har virði skulu faldast"/>
+  <sentence name="CtrlMultiplySelectedVariabelValuesTitle" value="Vel 2 virði: [Fyrra] faldað við [Seinna]"/>
+  <sentence name="CtrlMultiplyContinueButton" value="Falda"/>
+  <sentence name="CtrlTableDecimalDelimiter" value=","/>
+  <sentence name="CtrlTableThousandDelimiter" value="."/>
+  <sentence name="CtrlTableDefaultAttributesLabel" value="Fyrisett virði fyri eginleikar:"/>
+  <sentence name="CtrlTableCellInformationDialogTitle" value="Punta-upplýsingar"/>
+  <sentence name="CtrlTableCellInformationCell" value="Puntur"/>
+  <sentence name="CtrlTableCellInformationAttributes" value="Eginleikar"/>
+  <sentence name="CtrlTableCellInformationNotes" value="Viðmerkingar"/>
+  <sentence name="CtrlTableInformationTableLabel" value="Talva:"/>
+  <sentence name="CtrlVariableSelectorInstructionLabel" value="Vel greiningar og trýst síðani á 'Halt áfram'"/>
+  <sentence name="CtrlVariableSelectorMarkingTipsLink" value="Soleiðis velur tú"/>
+  <sentence name="CtrlVariableSelectorEliminationTooltip" value="Vel minst eitt virði"/>
+  <sentence name="CtrlVariableSelectorSelectValues" value="--- Vel bólking ---"/>
+  <sentence name="CtrlVariableSelectorEliminationLabel" value="Har greiningin er merkt við {image} skal minst eitt virði veljast"/>
+  <sentence name="CtrlVariableSelectorSelectAllTooltip" value="Vel alt"/>
+  <sentence name="CtrlVariableSelectorDeSelectAllTooltip" value="Vel einki"/>
+  <sentence name="CtrlVariableSelectorSortDescTooltip" value="Minkandi raðfylgja"/>
+  <sentence name="CtrlVariableSelectorSortAscTooltip" value="Vaksandi raðfylgja"/>
+  <sentence name="CtrlVariableSelectorHierarchicalTooltip" value="Vel stigskipað"/>
+  <sentence name="CtrlVariableSelectorSearchValuesTooltip" value="Finn virði"/>
+  <sentence name="CtrlVariableSelectorSummaryTotalLabel" value="Tilsamans"/>
+  <sentence name="CtrlVariableSelectorSummarySelectedLabel" value="Valt"/>
+  <sentence name="CtrlVariableSelectorSearchLabel" value="Leita"/>
+  <sentence name="CtrlVariableSelectorSearchTooltip" value="Leita"/>
+  <sentence name="CtrlVariableSelectorSearchTextStartCheckBox" value="Byrjan á teksti"/>
+  <sentence name="CtrlVariableSelectorSelectionLimitsRowsColumnsLabel" value="Skíggjavísing er avmarkað til {0} røð og {1} teigar"/>
+  <sentence name="CtrlVariableSelectorSelectionLimitsCellsLabel" value="Skíggjavísing er avmarkað til {0} puntar"/>
+  <sentence name="CtrlVariableSelectorSelectionLimitCellsExceeded" value="Talið á valdum puntum størri enn mest loyvda {0}"/>
+  <sentence name="CtrlVariableSelectorSelectionLimitRowsExceeded" value="Talið á valdum røðum størri enn mest loyvda {0}."/>
+  <sentence name="CtrlVariableSelectorSelectionLimitColsExceeded" value="Talið á valdum teigum størri enn mest loyvda {0}."/>
+  <sentence name="CtrlVariableSelectorSelectedRowsLabel" value="Tal á valdum røðum"/>
+  <sentence name="CtrlVariableSelectorSelectedColumnsLabel" value="Tal á valdum teigum"/>
+  <sentence name="CtrlVariableSelectorSelectedCellsLabel" value="Tal á valdum puntum er:"/>
+  <sentence name="CtrlVariableSelectorSelectedCellsLimitLabel" value="(mest loyvda talið er {0})"/>
+  <sentence name="CtrlVariableSelectorSelectionMissingErrorMessage" value="Minst eitt virði má veljast fyri:"/>
+  <sentence name="CtrlVariableSelectorContinueLabel" value="Vel ein møguleika og trýst"/>
+  <sentence name="CtrlVariableSelectorContinueButton" value="Halt áfram"/>
+  <sentence name="CtrlVariableSelectorRowOwerflowMessage" value="Virðini eru fleiri enn 500 og verða tí ikki víst sjálvvirkandi"/>
+  <sentence name="CtrlVariableSelectorShowAll" value="Vís alt"/>
+  <sentence name="CtrlVariableSelectorShowHierarchy" value="Vís stigskipan (hierarki)"/>
+  <sentence name="CtrlVariableSelectorSearch" value="Leita"/>
+  <sentence name="CtrlVariableSelectorOutputFormatsOutputScreen" value="Vís talvu á skíggja"/>
+  <sentence name="CtrlVariableSelectorSearchValuesHeading" value="Leita"/>
+  <sentence name="CtrlVariableSelectorSearchValuesBeginningOfTextCheckBox" value="Byrjan á teksti"/>
+  <sentence name="CtrlVariableSelectorManyValues" value="Virðini eru fleiri enn {0} og verða tí ikki víst sjálvvirkandi. Nýt leiting at velja virði."/>
+  <sentence name="CtrlVariableSelectorLargeValueset" value="(Stór virðismongd)"/>
+  <sentence name="CtrlVariableSelectorActionButton" value="Send"/>
+  <sentence name="CtrlCommandBarFunctionSplitTimeVar" value="Klúgva tíðarvariabul"/>
+  <!--<sentence name"CtrlSaveQueryCreateHeader" value="Tú kanst goyma valini til seinni"/>
+  <sentence name="CtrlSaveQueryCreateDescription" value="Tú kanst eisini gera eina ella fleiri rættignar/útrokningar, áðrenn tú goymir"/>
+  <sentence name="CtrlSaveQueryCreateTableCode" value="Talvu kota"/>
+  <sentence name="CtrlSaveQueryCreateDescriptionLabel" value="Lýsing:"/>
+  <sentence name="CtrlSaveQueryCreateHeaderTimeVariable" value="Vel tíðargreining"/>
+  <sentence name="CtrlSaveQueryCreateAlwaysTheSelectedTimePeriod" value="Altíð tað valda tíðarskeiðið (tey valdu tíðarskeiðini)"/>
+  <sentence name="CtrlSaveQueryCreateOnlyTheLastTimePeriod" value="Bert tað seinasta tíðarskeiðið"/>
+  <sentence name="CtrlSaveQueryCreateMovingTimeInterval" value="Rullandi tíðarskeið (bert seinastu tíðarskeiðini)"/>
+  <sentence name="CtrlSaveQueryCreateFixedStartPeriodAndMovingLastPeriod" value="Fast byrjunartíðarskeið og rullandi endatíðarskeið"/>
+  <sentence name="CtrlSaveQueryCreateHeaderPresentation" value="Vel umboðan"/>
+  <sentence name="CtrlSaveQueryCreateTableOnScreen" value="Talva á skígggja"/>
+  <sentence name="CtrlSaveQueryCreateDownloadInFileFormat" value="Niðurtøka í fílusniði:"/>
+  <sentence name="CtrlSaveQueryCreateCreateWebQueryForDataimportInExcel" value="Stovna fyrispurning fyri dátuinflutningi í Excel"/>
+  <sentence name="CtrlSaveQueryCreateSendEmailWhenTableIsUpdated" value="Send teldupost tá talvan er dagførd"/>
+  <sentence name="CtrlSaveQueryCreateSave" value="Goym talvuásetinginan"/>-->
+  <sentence name="CtrlSaveQueryListEditHeaderStrong" value="Broyta goymda talvuáseting"/>
+  <sentence name="CtrlSaveQueryListEditHeaderLine1" value="Um tú vit strika goymda talvuáseting, so set kross fyri hesum møguleika"/>
+  <sentence name="CtrlSaveQueryListEditHeaderLine2" value="Um tú vilt broyta talvunavnið ella lýsingina, so skriva teir nýggju tekstirnar."/>
+  <sentence name="CtrlSaveQueryListEditRemove" value="Strika"/>
+  <sentence name="CtrlSaveQueryListEditTableCode" value="Talvu kota"/>
+  <sentence name="CtrlSaveQueryListEditDescription" value="Lýsing:"/>
+  <sentence name="CtrlSaveQueryListEditOutput" value="Útlestur"/>
+  <sentence name="CtrlSaveQueryListEditUpdate" value="Dagfør"/>
+  <sentence name="CtrlTextSearchButtonText" value="Leita"/>
+  <sentence name="CtrlTextSearchOptionAll" value="Alt"/>
+  <sentence name="CtrlTextSearchOptionAnd" value="Og"/>
+  <sentence name="CtrlTextSearchOptionOr" value="Ella"/>
+  <sentence name="CtrlTextSearchSelect" value="Vel part"/>
+  <sentence name="CtrlTextSearchDownload" value="Niðurtøkan liðug"/>
+  <sentence name="CtrlTextSearchView" value="Vísa talvu"/>
+  <sentence name="CtrlTextSearchResultText" value="Leitiúrslit fyri"/>
+  <sentence name="CtrlTextSearchAttributeModified" value="Broytt:"/>
+  <sentence name="CtrlTextSearchAttributePath" value=" "/>
+  <sentence name="CtrlTextSearchAttributeSize" value="Stødd:"/>
+  <sentence name="CtrlTableOfContentSizeHeading" value="Stødd:"/>
+  <sentence name="CtrlTableOfContentSizeKilobytes" value="Kb"/>
+  <sentence name="CtrlTableOfContentModifiedHeading" value="Dagført:"/>
+  <sentence name="CtrlTableOfContentUpdatedHeading" value="Dagført:"/>
+  <sentence name="CtrlTableOfContentActionButton" value="Javascript er óvirkið, trýst fyri at heinta alt træið"/>
+  <sentence name="CtrlTableOfContentExternalLinkTooltip" value="Upplýsingar"/>
+  <sentence name="CtrlTableListSizeHeading" value="Stødd:"/>
+  <sentence name="CtrlTableListModifiedHeading" value="Seinast broytt:"/>
+  <sentence name="CtrlTableListUpdatedHeading" value="Dagført:"/>
+  <sentence name="CtrlTableListVariablesAndValuesHeading" value="Variablar:"/>
+  <sentence name="CtrlTableListSelectOption_Select" value="Vel greining:"/>
+  <sentence name="CtrlTableListSelectOption_Download" value="Tak fílu niður:"/>
+  <sentence name="CtrlTableListSelectOption_Downloadsmallfile" value="Tak smá-fílu niður:"/>
+  <sentence name="CtrlTableListSelectOption_View" value="Vís talvu:"/>
+  <sentence name="CtrlTableListSelectOption_ViewDefaultValues" value="Vís talvu við fyrisettum virðum"/>
+  <sentence name="CtrlTableListSelectOption_ViewWithCommandbar" value="Vís talvu:"/>
+  <sentence name="CtrlTableListSelectOption_ViewDefaultValuesWithCommandbar" value="Vís talvu við fyrisettum virðum"/>
+  <sentence name="CtrlCsvFileTypeFileWithHeading" value="Teigamarkað fílu við yvirskriftum"/>
+  <sentence name="CtrlCsvFileTypeFileWithoutHeading" value="Teigamarkað fílu við ongum yvirskriftum"/>
+  <sentence name="CtrlCsvFileTypeFileTabulator" value="Teigamerki"/>
+  <sentence name="CtrlCsvFileTypeFileComma" value="Komma"/>
+  <sentence name="CtrlCsvFileTypeFileSpace" value="Glopp"/>
+  <sentence name="CtrlCsvFileTypeFileSemicolon" value="Semikolon"/>
+  <sentence name="CtrlExcelInformationLevelNone" value="Ongar viðmerkingar"/>
+  <sentence name="CtrlExcelInformationLevelMandatoryFootnotes" value="Bert kravdar undirgreinar"/>
+  <sentence name="CtrlExcelInformationLevelAllFootnotes" value="Allar undirgreinar"/>
+  <sentence name="CtrlExcelInformationLevelAll" value="Allar upplýsingar"/>
+  <sentence name="CtrlExcelDoubleColumn" value="Kota og tekstur í hvør sínum teigi"/>
+  <sentence name="FileTypePX" value="PC-Axis-fíla"/>
+  <sentence name="FileTypeJsonStat" value="JSON-stat fíla (json)"/>
+  <sentence name="FileTypeExcel" value="Excel workbook (xml) "/>
+  <sentence name="FileTypeExcelDoubleColumn" value="Excel workbook (xml) við kotu og teksti"/>
+  <sentence name="FileTypeExcelCompleteInfoFile" value="Excel fíla sum skíggin "/>
+  <sentence name="FileTypeCsvWithHeadingAndTabulator" value="Teigamarkað við yvirskrift"/>
+  <sentence name="FileTypeCsvWithoutHeadingAndTabulator" value="Teigamarkað uttan yvirskrift"/>
+  <sentence name="FileTypeCsvWithHeadingAndComma" value="Kommamarkað við yvirskrift"/>
+  <sentence name="FileTypeCsvWithoutHeadingAndComma" value="Kommamarkað uttan yvirskrift"/>
+  <sentence name="FileTypeCsvWithHeadingAndSpace" value="Gloppmarkað við yvirskrift"/>
+  <sentence name="FileTypeCsvWithoutHeadingAndSpace" value="Gloppmarkað uttan yvirskrift"/>
+  <sentence name="FileTypeCsvWithHeadingAndSemiColon" value="Semikolonmarkað við yvirskrift"/>
+  <sentence name="FileTypeCsvWithoutHeadingAndSemiColon" value="Semikolonmarkað uttan yvirskrift"/>
+  <sentence name="FileTypeText" value="Tekstfíla (txt)"/>
+  <sentence name="FileTypeHtml" value="Html-fíla (htm)"/>
+  <sentence name="FileTypeRelational" value="Relatiónstalva (scb)"/>
+  <sentence name="FileTypeChartPng" value="Talmynd sum PNG (png)"/>
+  <sentence name="FileTypeChartGif" value="Talmynd sum Gif (gif)"/>
+  <sentence name="FileTypeChartJpeg" value="Talmynd sum JPEG (jpg)"/>
+  <sentence name="FileTypeExcelX" value="Excel (xlsx)"/>
+  <sentence name="FileTypeExcelXDoubleColumn" value="Excel (xlsx) við kotu- og tekst-teigum"/>
+  <sentence name="CtrlSearchVariableValuesAddButton" value="Legg aftrat"/>
+  <sentence name="CtrlSearchVariableValuesSearchHeader" value="Leita eftir"/>
+  <sentence name="CtrlSearchVariableValuesSearchForCode" value="Finn kotu:"/>
+  <sentence name="CtrlSearchVariableValuesSearchForValue" value="Finn tekst:"/>
+  <sentence name="CtrlSearchVariableValuesSearchTypeBeginning" value="Finn í byrjanini á kotu/tekst"/>
+  <sentence name="CtrlSearchVariableValuesSearchTypeAnywhere" value="Finn onkustaðni í teksti"/>
+  <sentence name="CtrlSearchVariableValuesSearch" value="Leita"/>
+  <sentence name="CtrlSearchVariableValuesAddToVariableSelector" value="Legg valdu úrslitini aftrat"/>
+  <sentence name="CtrlSearchValuesHeader" value="Leita eftir virðum fyri"/>
+  <sentence name="CtrlSearchValuesSearchCode" value="Finn kotu:"/>
+  <sentence name="CtrlSearchValuesSearchValue" value="Finn virði:"/>
+  <sentence name="CtrlSearchValuesSearchValueOrCode" value="Finn kotu/virði:"/>
+  <sentence name="CtrlSearchValuesSearchTypeBeginning" value="Finn í byrjanini á kotu/tekst"/>
+  <sentence name="CtrlSearchValuesSearchTypeAnywhere" value="Finn onkustaðni í teksti"/>
+  <sentence name="CtrlSearchValuesShowAllValues" value="Vís øll virði"/>
+  <sentence name="CtrlSearchValuesSearch" value="Leita"/>
+  <sentence name="CtrlSearchValuesSelectionTips" value="At velja øll virði í leitiúrslitinum, halt á 'Shift'-knappinum meðan tú trýstir á seinasta virðið "/>
+  <sentence name="CtrlSearchValuesSearchResultHeader" value="Leitiúrslit"/>
+  <sentence name="CtrlSearchValuesSearchResultNumberOfHits" value="(tal á funnum: {0})"/>
+  <sentence name="CtrlSearchValuesSearchResultSelectAll" value="Vel alt"/>
+  <sentence name="CtrlSearchValuesChoosenValues" value="Vald virði"/>
+  <sentence name="CtrlSearchValuesAddToChoosenValues" value="Legg aftrat valdum virðum"/>
+  <sentence name="CtrlSearchValuesRemoveFromChoosenValues" value="Tak burtur úr valdum virðum"/>
+  <sentence name="CtrlSearchValuesNumberOfChoosenValues" value="(tal á virðum: {0})"/>
+  <sentence name="CtrlSearchValuesNoValuesFound" value="Eingi virði funnin"/>
+  <sentence name="CtrlSearchValuesNoValuesSelected" value="Eingi virði vald"/>
+  <sentence name="CtrlSearchValuesCancel" value="Ógilda"/>
+  <sentence name="CtrlSearchValuesClear" value="Strika virði"/>
+  <sentence name="CtrlSearchValuesAddToVariableSelector" value="Í lagi"/>
+  <sentence name="CtrlSearchValuesSearchLabel" value="Leita"/>
+  <sentence name="CtrlSearchValuesCode" value="Kota"/>
+  <sentence name="CtrlSearchValuesValue" value="Virði"/>
+  <sentence name="CtrlSearchValuesAllValues" value="Vís øll virði"/>
+  <sentence name="CtrlSearchValuesSearchText" value="Tekstur:"/>
+  <sentence name="CtrlSearchValuesSearchButton" value="Leita"/>
+  <sentence name="CtrlSearchValuesPagerFirstPage" value="Fyrsta síða"/>
+  <sentence name="CtrlSearchValuesPagerNumberOfPages" value="Síður tilsamans"/>
+  <sentence name="CtrlSearchValuesPagerLastPage" value="Seinasta síða"/>
+  <sentence name="CtrlSearchValuesPagerForward" value="Frameftir"/>
+  <sentence name="CtrlSearchValuesPagerBackward" value="Aftureftir"/>
+  <sentence name="CtrlSearchValuesSelectAllAvailableValues" value="Vel øll tøku virðini"/>
+  <sentence name="CtrlTableQueryShowInformation" value="Ger hesa talvu tøka í tíni skipan"/>
+  <sentence name="CtrlTableQueryShowInformationTooltip" value="Fá upplýsingar um, hvussu tú kanst fáa samband við hesa talvuna úr tínari skipan"/>
+  <sentence name="CtrlTableQueryHideInformation" value="Krógva upplýsingar"/>
+  <sentence name="CtrlTableQueryInformationText" value="Send (POST) henda JSON-fyrispurningin til URL-in niðriundir fyri at fáa samband við hesa talvuna úr tínari skipan"/>
+  <sentence name="CtrlTableQueryUrlCaption" value="URL:"/>
+  <sentence name="CtrlTableQueryQueryCaption" value="JSON-fyrispurningur:"/>
+  <sentence name="CtrlTableQueryMoreInformation" value="Fleiri upplýsingar"/>
+  <sentence name="CtrlNavigationFlowStep1" value="Vel talvu"/>
+  <sentence name="CtrlNavigationFlowStep2" value="Vel greining"/>
+  <sentence name="CtrlNavigationFlowStep3" value="Vís talvu"/>
+  <sentence name="CtrlSaveQueryChoosetimeperiod" value="Dagføringar-valmøguleikar"/>
+  <sentence name="CtrlSaveQueryChoosetimeperiodInformation" value="Hvat skal goymdi fyrispurningurin gera, um talvur verða dagførdar við nýggjum tíðarskeiðum?"/>
+  <sentence name="CtrlSaveQueryTimeWarning" value="Tað ber ikki til at velja dagfør fyrispurningin, tí tíðarskeiðini hava verið samansett við hond"/>
+  <sentence name="CtrlSaveQueryNoTimeValWarning" value="Tað ber ikki til at velja dagfør fyrispurningin, tí talvan hevur onga ásetta tíðargreining"/>
+  <sentence name="CtrlSaveQuerylnkSaveQuery" value="Goym fyrispurning"/>
+  <sentence name="CtrlSaveQueryAsCaption" value="Goym úrslitið (krevst) sum:"/>
+  <sentence name="CtrlSaveQueryForScreen" value="Sama sum víst á skíggja"/>
+  <sentence name="CtrlSaveQueryCancelSaveQuery" value="Ógilda"/>
+  <sentence name="CtrlSaveQuerybtnCreateQuery" value="Liðugt"/>
+  <sentence name="CtrlSaveQueryFloatingTimePeriod" value="Dagfør fyrispurningin við rullandi byrjunardagfesting og sama tali av tíðarskeiðum"/>
+  <sentence name="CtrlSaveQuerySelectedTimePeriod" value="Dagfør ikki fyrispurningin, men vís somu tíðarskeið sum á skíggjanum"/>
+  <sentence name="CtrlSaveQueryExtendedTimePeriod" value="Dagfør fyrispurningin við fastari byrjunardagfesting og nýggju tíðarskeiðini"/>
+  <sentence name="CtrlSaveQuerySelectFormat" value="Vel snið"/>
+  <sentence name="CtrlSaveQuerySelectFormatMissing" value="Einki snið er valt"/>
+  <sentence name="CtrlSaveQuerybtnBack" value="Aftur"/>
+  <sentence name="CtrlSaveQueryBookmark" value="Bókamerki"/>
+  <sentence name="CtrlSaveQueryCopyLink" value="Avrita"/>
+  <sentence name="CtrlSaveQueryMailQuery" value="Send sum teldu-bræv"/>
+  <sentence name="CtrlSaveQueryFailedSave" value="Tað lukkaðist ikki at goyma fyrispurningin"/>
+  <sentence name="CtrlSaveQueryURLInfo" value="Tú kanst venda aftur til goymda fyrispurningin við hesum leinkinum"/>
+  <sentence name="CtrlSaveQueryHeadingExplanationText" value="Um goymdan fyrispurning"/>
+  <sentence name="CtrlSaveQueryExplanationText" value="Goym tíni val, so tú kanst venda aftur seinni til somu talvu við at nýta ein URL"/>
+  <sentence name="CtrlSaveQueryUpdateSummaryHeading" value="Dagføringarmøguleikar:"/>
+  <sentence name="CtrlSaveQueryOutputSummaryHeading" value="Snið:"/>
+  <sentence name="PxcYear" value="ár"/>
+  <sentence name="PxcHalfyear" value="hálvár"/>
+  <sentence name="PxcQuarter" value="ársfjórðingur"/>
+  <sentence name="PxcMonth" value="mánaður"/>
+  <sentence name="PxcWeek" value="vika"/>
+  <sentence name="PxcMetaTitleBy" value="eftir"/>
+  <sentence name="PxcMetaTitleAnd" value="og"/>
+  <sentence name="PxcOpSplitTimeVarYear" value="ár"/>
+  <sentence name="PxcOpSplitTimeVarQuarter" value="ársfjórðingur"/>
+  <sentence name="PxcOpSplitTimeVarMonth" value="mánaður"/>
+  <sentence name="PxcOpSplitTimeVarJanuary" value="januar"/>
+  <sentence name="PxcOpSplitTimeVarFebruary" value="februar"/>
+  <sentence name="PxcOpSplitTimeVarMarch" value="mars"/>
+  <sentence name="PxcOpSplitTimeVarApril" value="apríl"/>
+  <sentence name="PxcOpSplitTimeVarMay" value="mai"/>
+  <sentence name="PxcOpSplitTimeVarJune" value="juni"/>
+  <sentence name="PxcOpSplitTimeVarJuly" value="juli"/>
+  <sentence name="PxcOpSplitTimeVarAugust" value="august"/>
+  <sentence name="PxcOpSplitTimeVarSeptember" value="september"/>
+  <sentence name="PxcOpSplitTimeVarOctober" value="oktober"/>
+  <sentence name="PxcOpSplitTimeVarNovember" value="november"/>
+  <sentence name="PxcOpSplitTimeVarDecember" value="desember"/>
+  <sentence name="PxcOpSplitTimeVarQuarter1" value="1. ársfjórðingur"/>
+  <sentence name="PxcOpSplitTimeVarQuarter2" value="2. ársfjórðingur"/>
+  <sentence name="PxcOpSplitTimeVarQuarter3" value="3. ársfjórðingur"/>
+  <sentence name="PxcOpSplitTimeVarQuarter4" value="4. ársfjórðingur"/>
+  <sentence name="ERROR_MISSING_TIMEVALUE" value="TIMEVALUE manglar"/>
+  <sentence name="PxcErrCellNoteValueMissing" value="Virðið={0} er ógildugt"/>
+  <sentence name="PxcErrToManyCodes" value="{0} hevur ov nógvar kotur ásettar"/>
+  <sentence name="PxcGroupedValuesMissing" value="{0} bólkað virði mangla"/>
+  <sentence name="PxcGroupingVariableWithNoValues" value="Bólkingarvariabulin {0} hevur eingi virði"/>
+  <sentence name="PxcSortVariable" value="Sorteringsvariabul"/>
+  <sentence name="SqlErr" value=""/>
+  <sentence name="SqlWarn" value=""/>
+  <sentence name="PxcContactPhone" value="Telefon"/>
+  <sentence name="PxcContactFax" value="Fax"/>
+  <sentence name="PxcContactEMail" value="teldupostur"/>
+  <sentence name="PxcPercent" value="Prosent"/>
+  <sentence name="PxcPermil" value="Promillur"/>
+  <sentence name="PxcPercentUnitVarExists" value="Prosent kann ikki roknast, tá eindargreiningin finst frammanundnan"/>
+  <sentence name="PxcPermilUnitVarExists" value="Promilla kann ikki roknast, tá eindargreiningin finst frammanundnan"/>
+  <sentence name="PxcErr103" value="UNITS villa"/>
+  <sentence name="PxcErr106" value="STUB villa"/>
+  <sentence name="PxcErr107" value="HEADING villa"/>
+  <sentence name="PxcErr108" value="VALUES villa"/>
+  <sentence name="PxcErr109" value="CODES villa"/>
+  <sentence name="PxcErr111" value="NOTE ella NOTEX fyri greining villa"/>
+  <sentence name="PxcErr112" value="VALUENOTE ella VALUENOTEX villa"/>
+  <sentence name="PxcErr113" value="CELLNOTE ella CELLNOTEX villa"/>
+  <sentence name="PxcErr115" value="ELIMINATION yes/no villa"/>
+  <sentence name="PxcErr117" value="PARTITION villa"/>
+  <sentence name="PxcErr121" value="KEYS villa"/>
+  <sentence name="PxcErr123" value="PRECISION villa"/>
+  <sentence name="PxcErr124" value="DOMAIN villa"/>
+  <sentence name="PxcErr130" value="TITLE ella DESCRIPTION mangla"/>
+  <sentence name="PxcErr131" value="MATRIX manglar"/>
+  <sentence name="PxcErr132" value="SUBJECT AREA manglar"/>
+  <sentence name="PxcErr133" value="SUBJECT CODE manglar"/>
+  <sentence name="PxcErr134" value="STUB and HEADING manglar"/>
+  <sentence name="PxcErr135" value="UNITS manglar"/>
+  <sentence name="PxcErr136" value="CONTENTS manglar"/>
+  <sentence name="PxcErr137" value="DECIMALS manglar"/>
+  <sentence name="PxcErr138" value="SHOWDECIMALS villa"/>
+  <sentence name="PxcErr142" value="COPYRIGHT er skeivt"/>
+  <sentence name="PxcErr143" value="DAYADJ er skeivt"/>
+  <sentence name="PxcErr144" value="SEASADJ er skeivt"/>
+  <sentence name="PxcErr146" value="CONTACT er skeivt"/>
+  <sentence name="PxcErr147" value="REFPERIOD er skeivt"/>
+  <sentence name="PxcErr149" value="LAST-UPDATED er skeivt"/>
+  <sentence name="PxcErr151" value="STOCKFA er skeivt"/>
+  <sentence name="PxcErr152" value="CFPRICES er skeivt"/>
+  <sentence name="PxcErr153" value="TIMEVAL er skeivt"/>
+  <sentence name="PxcErr154" value="BASEPERIOD er skeivt"/>
+  <sentence name="PxcErr160" value="CONTVARIABLE-treytað lyklaorð funnið men eingin innihaldsgreining er ásett"/>
+  <sentence name="PxcErr161" value="CONTVARIABLE ella treytað lyklaorð villa"/>
+  <sentence name="PxcErr162" value="PRESTEXT villa"/>
+  <sentence name="PxcErr164" value="MAP villa"/>
+  <sentence name="PxcErr166" value="AGGREGALLOWED villa"/>
+  <sentence name="PxcErr167" value="AUTOPEN villa"/>
+  <sentence name="PxcErr168" value="DOUBLECOLUMN villa"/>
+  <sentence name="PxcErr169" value="DESCRIPTIONDEFAULT villa"/>
+  <sentence name="PxcErr176" value="DATANOTE villa"/>
+  <sentence name="PxcErr180" value="DATA manglar"/>
+  <sentence name="PxcErr201" value="HIERARCHYLEVELSOPEN villa "/>
+  <sentence name="PxcErr202" value="HIERARCHYLEVELS villa "/>
+  <sentence name="PxcErr203" value="HIERARCHYNAMES villa"/>
+  <sentence name="PxcErr204" value="HIERARCHIES villa"/>
+  <sentence name="PxcErr205" value="OFFICIAL-STATISTICS villa"/>
+  <sentence name="PxcErr206" value="ATTRIBUTE-ID villa"/>
+  <sentence name="PxcErr207" value="ATTRIBUTE-TEXT villa"/>
+  <sentence name="PxcErr208" value="ATTRIBUTES villa"/>
+  <sentence name="PxcErr300" value="VALUE-TEXT-OPTION villa"/>
+  <sentence name="PxcKeywordError" value="{0} villa"/>
+  <sentence name="PxcKeywordLastUpdated" value="Seinast dagført"/>
+  <sentence name="PxcKeywordSource" value="Kelda"/>
+  <sentence name="PxcKeywordContact" value="Kontakt"/>
+  <sentence name="PxcKeywordCopyright" value="Upphavsrættur"/>
+  <sentence name="PxcKeywordUnits" value="Eind"/>
+  <sentence name="PxcKeywordStockfa" value="Dátuslag"/>
+  <sentence name="PxcKeywordStockfaValueStock" value="Stovnur"/>
+  <sentence name="PxcKeywordStockfaValueFlow" value="Streymur"/>
+  <sentence name="PxcKeywordStockfaValueAverage" value="Miðalvirði"/>
+  <sentence name="PxcKeywordRefPeriod" value="Tilvísingartíðarskeið"/>
+  <sentence name="PxcKeywordBasePeriod" value="Støðisár"/>
+  <sentence name="PxcKeywordCFPricesValueCurrent" value="Dagsprísir"/>
+  <sentence name="PxcKeywordCFPricesValueFixed" value="Fastir prísir"/>
+  <sentence name="PxcKeywordDayAdj" value="Kalendartillaging"/>
+  <sentence name="PxcKeywordSeasAdj" value="Árstíðarjavning"/>
+  <sentence name="PxcKeywordDatabase" value="Dátustovnur"/>
+  <sentence name="PxcKeywordMatrix" value="Intern tilvísingarkota"/>
+  <sentence name="PXWebSearchLink" value="Leita"/>
+  <sentence name="PXWebGenXMLLink" value="Bygg xml valmynd"/>
+  <sentence name="PageViewFootnoteDialogTitle" value="Viðmerkingar"/>
+  <sentence name="PageViewDataSortDescription" value="Klikk á teigahøvdið fyri at raðskipa talvuna. Halt Shift-knappinum niðri fyri at raðskipa fleiri teigar ísenn."/>
+  <sentence name="PageViewDataSortCopyInstructions" value="At taka tvítak av talvu: Vel 'Vel alt' í rætti-valmyndini. Vel síðani 'Avrita'. Annar máti: trýst Ctrl+A og síðani Ctrl+C"/>
+  <sentence name="CancelButton" value="Ógilda"/>
+	<!-- PX-Web -->
+  <sentence name="PxWebApplicationTitle" value="Hagstova Føroya | Hagtalsgrunnur (Staging)"/>
+  <sentence name="PxWebApplicationName" value="Hagstova Føroya | Hagtalsgrunnur (Staging)"/>
+  <sentence name="PxWebLogoAlt" value="Hagstova Føroya | Hagtalsgrunnur (Staging)"/>
+  <sentence name="PxWebHome" value="Heim"/>
+  <sentence name="PxWebMenu" value="Valmynd"/>
+  <sentence name="PxWebSelection" value="Val"/>
+  <sentence name="PxWebInformation" value="Upplýsingar"/>
+  <sentence name="PxWebDetailedInformation" value="Útgreinað lýsing"/>
+  <sentence name="PxWebFootnotes" value="Viðmerkingar"/>
+  <sentence name="PxWebMarkingTips" value="Soleðis velur tú"/>
+  <sentence name="PxWebMarkingTipsHeader" value="Leiðbeining at velja í vallista"/>
+  <sentence name="PxWebMarkingTipsText" value="Í minsta lagi ein greining má avmarkast í hvørjum vallista. Vilt tú bert síggja eina ella nakrar fáargreiningar, so marka bert hesar. G.G Marking verður ógildað við at halda CTRL-knappinum niðri, meðan músinklikkir á tekstin.Velja allar greiningar á listanum:- Klikk á fyrstu greining á listanum, halt síðani á SHIFT-knappinum og END-knappinum ísenn.Velja/frávelja greining á listanum:- Trýst á CTRL-knappin og klikk samstundis við vinstra músaknapp á evnið, ið skal veljast ella fráveljast.Velja meira enn eina greining íá listanum:- Vel greiningar við at toga músina yvir greiningunum, meðan tú trýstir á vinstra músaknapp.Tú kanst eisini klikkja á fyrstu greiningina og síðani halda SHIFT-knappinum niðri, meðan tú trýstir píl-upp ella píl-niður.- Vel greiningar, ið ikki liggja saman, við at halda CTRL-knappinum niðri, meðan tú klikkir við vinstra músaknappi á tærgreiningarnar, tú vilt velja.At leita eftir ávísum virði á listanum:- Klikk á fyrstu greiningina. Skriva síðani fyrsta stavin í ynsktu greiningini. Gevur hetta ikki røttu greiningina, so skriva afturinntil tú fært rætta svarið. Eisini ber til at nýta pílarnar ella músaknappin at leita víðari."/>
+  <sentence name="PxWebPresentation" value="Vísing"/>
+  <sentence name="PxWebTable" value="Talva"/>
+  <sentence name="PxWebTableUserSettingsShow" value="Talvuásetingar"/>
+  <sentence name="PxWebTableUserSettingsHide" value="Krógva ásetingar"/>
+  <sentence name="PxWebTableUserSettingsZeroOption" value="Røð við nullum:"/>
+  <sentence name="PxWebTableUserSettingsZeroOptionShowAll" value="Vís øll røð"/>
+  <sentence name="PxWebTableUserSettingsZeroOptionNoZero" value="Krógva røð við berum nullum"/>
+  <sentence name="PxWebTableUserSettingsZeroOptionNoZeroAndNil" value="Krógva røð við berum nullum ella '-'"/>
+  <sentence name="PxWebTableUserSettingsZeroOptionNoSymbols" value="Krógva røð við berum prikkum"/>
+  <sentence name="PxWebTableUserSettingsZeroOptionNoZeroNilAndSymbol" value="Krógva røð við berum nullum, '-' ella prikkum"/>
+  <sentence name="PxWebTableUserSettingsCancel" value="Ógilda"/>
+  <sentence name="PxWebTableUserSettingsApply" value="Goym ásetingar"/>
+  <sentence name="PxWebChart" value="Talmynd"/>
+  <sentence name="PxWebChartUserSettingsTitle" value="Heiti:"/>
+  <sentence name="PxWebChartUserSettingsHeight" value="Hædd:"/>
+  <sentence name="PxWebChartUserSettingsWidth" value="Breidd:"/>
+  <sentence name="PxWebChartUserSettingsLineThickness" value="Linjutjúkd:"/>
+  <sentence name="PxWebChartUserSettingsSortTime" value="Raðskipa tíðina:"/>
+  <sentence name="PxWebChartUserSettingsSortTimeAscending" value="Vaksandi"/>
+  <sentence name="PxWebChartUserSettingsSortTimeDescending" value="Minkandi"/>
+  <sentence name="PxWebChartUserSettingsSortTimeNone" value="Ikki"/>
+  <sentence name="PxWebChartUserSettingsLabelOrientation" value="Merkið skal venda:"/>
+  <sentence name="PxWebChartUserSettingsLabelOrientationHorizontal" value="Vatnrætt"/>
+  <sentence name="PxWebChartUserSettingsLabelOrientationVertical" value="Loddrætt"/>
+  <sentence name="PxWebChartUserSettingsGuidelines" value="Talmyndalinjur:"/>
+  <sentence name="PxWebChartUserSettingsGuidelinesHorizontal" value="Vatnrætt"/>
+  <sentence name="PxWebChartUserSettingsGuidelinesVertical" value="Loddrætt"/>
+  <sentence name="PxWebChartUserSettingsLegend" value="Frágreiðing:"/>
+  <sentence name="PxWebChartUserSettingsLegendShow" value="Vís"/>
+  <sentence name="PxWebChartUserSettingsLegendHeight" value="Hædd (% av talmynd):"/>
+  <sentence name="PxWebChartUserSettingsCancel" value="Ógilda"/>
+  <sentence name="PxWebChartUserSettingsApply" value="Goym ásetingar"/>
+  <sentence name="PxWebChartUserSettingsShow" value="Talmyndaásetingar"/>
+  <sentence name="PxWebChartUserSettingsHide" value="Krógva talmyndaásetingar"/>
+  <sentence name="PxWebChartPieChartTitle" value="Lagkøkumynd kann ikki vísast"/>
+  <sentence name="PxWebChartPieChartInformation" value="Ein lagkøkumynd kann bert hava ein variabul við meira enn einum virði. Nýt 'Strika variabul' ella'Strika virði' í ' valmyndini 'Rætta og rokna' at taka burtur variablar/virði"/>
+  <sentence name="PxWebChartPyramidChartTitle" value="Fólkapýramida kann ikki vísast"/>
+  <sentence name="PxWebChartPyramidChartInformation" value="Í fólkapýramiduni kann ein av variablunum hava óavmarkað virði. Ein av hinum variablunum má hava júst tvey virði, meðan allir hinir skulu hava bert eitt virði. Til dømis kann variabulin aldur hava øll virði og variabulin kyn hevur tvey virði. Nýt 'Strika virði' í 'Rætta og rokna' omanfyri at strika virði."/>
+  <sentence name="PxWebChartTooManyValues" value="Ov nógv virði vald"/>
+  <sentence name="PxWebChartTooManyValuesInformation" value="Tú hevur valt ov nógv virði. Mesta talið av valdum puntum í dátunum er {0}."/>
+  <sentence name="PxWebChartUserSettingsLargeValue" value="Mesta virðið er {0}."/>
+  <sentence name="PxWebChartLeftScale" value="(stigin vinstrumegin)"/>
+  <sentence name="PxWebChartRightScale" value="(stigin høgrumegin)"/>
+  <sentence name="PxWebChartPercent" value="%"/>
+  <sentence name="PxWebDataSort" value="Raðskipa dátur"/>
+  <sentence name="PxWebSelectDb" value="Vel dátustovn:"/>
+  <sentence name="PxWebTableCropped" value="Talvan er kubbað og í mesta lagi {0} røð og {1} teigar kunnu vísast á skíggjanum. Brúka førki-knappin at síggja fleiri teigar"/>
+  <sentence name="PxWebPopupDialogOk" value="Í lagi"/>
+  <sentence name="PxWebPopupDialogClose" value="Lat aftur"/>
+  <sentence name="PxWebSelectVariable" value="Vel greining"/>
+  <sentence name="PxWebAboutTable" value="Um talvuna"/>
+  <sentence name="PxWebShowTable" value="Vís talvuna"/>
+  <sentence name="PxWebSearchControlLabel" value="Leita í {0}:"/>
+  <sentence name="PxWebSearchControlButtonText" value="Leita"/>
+  <sentence name="PxWebSearchAllFields" value="Leita í øllum teigum"/>
+  <sentence name="PxWebSearchSelection" value="Leita bert í"/>
+  <sentence name="PxWebSearchFieldTitle" value="Talvuheiti"/>
+  <sentence name="PxWebSearchFieldValue" value="Virði tekstur"/>
+  <sentence name="PxWebSearchFieldCode" value="Virði kota"/>
+  <sentence name="PxWebSearchResultText" value="Leitiúrslit: ({0} funnin)"/>
+  <sentence name="PxWebSearchResultColumnTable" value="Talva"/>
+  <sentence name="PxWebSearchResultColumnPublished" value="Útgivið"/>
+  <sentence name="PxWebTitleDefault" value="PX-Web - Vel dátustovn"/>
+  <sentence name="PxWebTitleApiHelp" value="PX-Web - API-hjálp"/>
+  <sentence name="PxWebTitleChart" value="PX-Web - Talmynd"/>
+  <sentence name="PxWebTitleDataSort" value="PX-Web - Raðskipa"/>
+  <sentence name="PxWebTitleErrorGeneral" value="PX-Web - Okkurt er galið!"/>
+  <sentence name="PxWebTitleFootnotesPresentation" value="PX-Web - Viðmerkingar"/>
+  <sentence name="PxWebTitleFootnotesSelection" value="PX-Web - Viðmerkingar"/>
+  <sentence name="PxWebTitleInformationPresentation" value="PX-Web - Upplýsingar"/>
+  <sentence name="PxWebTitleInformationSelection" value="PX-Web - Upplýsingar"/>
+  <sentence name="PxWebTitleMarkingTips" value="PX-Web - Veljileiðbeining"/>
+  <sentence name="PxWebTitleMenu" value="PX-Web - Vel talvu"/>
+  <sentence name="PxWebTitleSearch" value="PX-Web - Leita"/>
+  <sentence name="PxWebTitleSelection" value="PX-Web - Vel greiningar og virði"/>
+  <sentence name="PxWebTitleTable" value="PX-Web - Talva"/>
+  <sentence name="PxWebSavedQueryUnsafeMessage" value="Teksturin í talvuni víkur frá upprunatekstinum í dátustovninum, tí hann hevur verið broyttur við hond"/>
+  <sentence name="PxWebGeneralErrorMessage" value="Ein villa er komin í. Villan er skrásett"/>
+  <sentence name="PxWebSavedQueryExecuteErrorMessage" value="0"/>
+  <sentence name="PxWebReturnToStartpage" value="0"/>
+  <!-- PX-Web Administration -->
+  <sentence name="PxWebAdminLogout" value="Rita út"/>
+  <sentence name="PxWebAdminHeading" value="PX-Web Administration"/>
+  <sentence name="PxWebAdminVersion" value="PX-Web 2015 Mai R1 (4)"/>
+  <sentence name="PxWebAdminHomePage" value="PX-Web heimasíða"/>
+  <sentence name="PxWebAdminSaveButton" value="Goym"/>
+  <sentence name="PxWebAdminGenerateButton" value="Byggja"/>
+  <sentence name="PxWebAdminMenuHome" value="Heim"/>
+  <sentence name="PxWebAdminMenuSettings" value="Ásetingar"/>
+  <sentence name="PxWebAdminMenuSettingsGeneral" value="Alment"/>
+  <sentence name="PxWebAdminMenuSettingsGeneralSite" value="Vevstað"/>
+  <sentence name="PxWebAdminMenuSettingsGeneralLanguage" value="Tungumál"/>
+  <sentence name="PxWebAdminMenuSettingsGeneralPaths" value="Leitistíggir"/>
+  <sentence name="PxWebAdminMenuSettingsGeneralFileFormats" value="Fílusnið"/>
+  <sentence name="PxWebAdminMenuSettingsGeneralModules" value="Modul"/>
+  <sentence name="PxWebAdminMenuSettingsGeneralGlobal" value="Heildarásetingar"/>
+  <sentence name="PxWebAdminMenuSettingsGeneralDatabases" value="Dátustovnar"/>
+  <sentence name="PxWebAdminMenuSettingsGeneralAdministration" value="Umsiting"/>
+  <sentence name="PxWebAdminMenuSettingsMenu" value="Valmynd"/>
+  <sentence name="PxWebAdminMenuSettingsSelection" value="Val"/>
+  <sentence name="PxWebAdminMenuSettingsPresentation" value="Vísing"/>
+  <sentence name="PxWebAdminMenuSettingsPresentationGeneral" value="Alment"/>
+  <sentence name="PxWebAdminMenuSettingsPresentationTable" value="Talva"/>
+  <sentence name="PxWebAdminMenuSettingsPresentationCommandBar" value="Stýripultur"/>
+  <sentence name="PxWebAdminMenuTools" value="Amboð"/>
+  <sentence name="PxWebAdminMenuToolsGenerateDb" value="Bygg dátustovn"/>
+  <sentence name="PxWebAdminMenuSettingsNavigation" value="Vísa valslóð"/>
+  <sentence name="PxWebAdminMenuToolsLanguageManager" value="Tungumálsstýring"/>
+  <sentence name="PxWebAdminMenuToolsReset" value="Frumstilla"/>
+  <sentence name="PxWebAdminMenuToolsChangePassword" value="Broyta loyniorð"/>
+  <sentence name="PxWebAdminMenuFeatures" value="Hentleikar"/>
+  <sentence name="PxWebAdminMenuFeaturesGeneral" value="Alment"/>
+  <sentence name="PxWebAdminMenuFeaturesCharts" value="Talmynd"/>
+  <sentence name="PxWebAdminMenuFeaturesChartsGeneral" value="Alment"/>
+  <sentence name="PxWebAdminMenuFeaturesApi" value="API"/>
+  <sentence name="PxWebAdminMenuFeaturesApiGeneral" value="Alment"/>
+  <sentence name="PxWebAdminMenuFeaturesSaveQuery" value="Goymdur fyrispurningur"/>
+  <sentence name="PxWebAdminMenuFeaturesSaveQueryGeneral" value="Alment"/>
+  <sentence name="PxWebAdminMenuFeaturesSearch" value="Leita"/>
+  <sentence name="PxWebAdminMenuFeaturesSearchGeneral" value="Alment"/>
+  <sentence name="PxWebAdminMenuFeaturesBackgroundWorker" value="Bakgrundstilgongd"/>
+  <sentence name="PxWebAdminMenuFeaturesBackgroundWorkerGeneral" value="Alment"/>
+  <sentence name="PxWebPxLogin" value="PX-Web-innritan"/>
+  <sentence name="PxWebLogin" value="Rita inn"/>
+  <sentence name="PxWebUsername" value="Brúkaranavn"/>
+  <sentence name="PxWebPassword" value="Loyniorð"/>
+  <sentence name="PxWebWrongLogin" value="Brúkaranavn ella loyniorð skeivt"/>
+  <sentence name="PxWebAdminSettingsDatabasesPxDatabases" value="PX-dátustovnar"/>
+  <sentence name="PxWebAdminSettingsDatabasesPxDatabasesInfo" value="Teir valdu PX dátustovnarnir verða vístir í PX-Web"/>
+  <sentence name="PxWebAdminSettingsDatabasesCnmmDatabases" value="CNMM (Common Nordic Meta Model) Dátustovnar"/>
+  <sentence name="PxWebAdminSettingsDatabasesCnmmDatabasesInfo" value="Teir valdu CNMM dátustovnarnir verða vístir í PX-Web"/>
+  <sentence name="PxWebAdminSettingsDatabasesEnabled" value="Vís"/>
+  <sentence name="PxWebAdminSettingsDatabasesDbCreated" value="Db stovnað"/>
+  <sentence name="PxWebAdminSettingsDatabasesIndexStatus" value="Indeks støða"/>
+  <sentence name="PxWebAdminSettingsDatabasesAction" value="Atgerð"/>
+  <sentence name="PxWebAdminSettingsDatabasesCreateIndex" value="Bygg indeks"/>
+  <sentence name="PxWebAdminSettingsDatabasesConfirmCreateIndex" value="Vilt tú byggja nýtt leiti-indeks?"/>
+  <sentence name="PxWebAdminSettingsPathsLanguagePath" value="Tungumálsstíggjur"/>
+  <sentence name="PxWebAdminSettingsPathsLanguagePathInfo" value="Stíggjur til skjáttu við tungumálsfílum"/>
+  <sentence name="PxWebAdminSettingsPathsImagePath" value="Myndastíggjur"/>
+  <sentence name="PxWebAdminSettingsPathsImagePathInfo" value="Stíggjur til skjáttu við myndum"/>
+  <sentence name="PxWebAdminSettingsPathsPxDatabasePath" value="Stíggjur til PX dátustovnar"/>
+  <sentence name="PxWebAdminSettingsPathsPxDatabasePathInfo" value="Stíggjur til skjáttu við PX dátustovnum"/>
+  <sentence name="PxWebAdminSettingsPathsAggregationPath" value="Stíggjur til bólking"/>
+  <sentence name="PxWebAdminSettingsPathsAggregationPathInfo" value="Stíggjur til skjáttu við bólkingar-fílum"/>
+  <sentence name="PxWebAdminSettingsFileFormatsCellLimitDownload" value="Mesta tal av puntum at taka niður"/>
+  <sentence name="PxWebAdminSettingsFileFormatsCellLimitDownloadInfo" value="Mesta tal av puntum, ið kunnu takast niður sum talva"/>
+  <sentence name="PxWebAdminSettingsFileFormatsExcel" value="Excel"/>
+  <sentence name="PxWebAdminSettingsFileFormatsExcelInformationLevel" value="Upplýsingarstøði"/>
+  <sentence name="PxWebAdminSettingsFileFormatsExcelInformationLevelInfo" value="Ásetur hvørjar upplýsingar skulu vísast í Excel-fíluni"/>
+  <sentence name="PxWebAdminSettingsFileFormatsExcelInformationLevelNone" value="Ongar upplýsingar"/>
+  <sentence name="PxWebAdminSettingsFileFormatsExcelInformationLevelMandantoryFootnotesOnly" value="Bert tvungnar undirgreinar"/>
+  <sentence name="PxWebAdminSettingsFileFormatsExcelInformationLevelAllFootnotes" value="Allar undirgreinar"/>
+  <sentence name="PxWebAdminSettingsFileFormatsExcelInformationLevelAllInformation" value="Allar upplýsingar"/>
+  <sentence name="PxWebAdminSettingsFileFormatsExcelDoubleColumn" value="Serstakan kotu-teig"/>
+  <sentence name="PxWebAdminSettingsFileFormatsExcelDoubleColumnInfo" value="Um kotan altíð skal vísast í teigi fyri seg"/>
+  <sentence name="PxWebAdminSettingsGlobalSecrecyOption" value="Trúnaðarverja"/>
+  <sentence name="PxWebAdminSettingsGlobalSecrecyOptionInfo" value="Um dátur skulu bronglast tá tær verða vístar"/>
+  <sentence name="PxWebAdminSettingsGlobalSecrecyOptionNone" value="Eingin"/>
+  <sentence name="PxWebAdminSettingsGlobalSecrecyOptionSimple" value="Einføld"/>
+  <sentence name="PxWebAdminSettingsGlobalRoundingRule" value="Avrundingarregla"/>
+  <sentence name="PxWebAdminSettingsGlobalRoundingRuleBankersRounding" value="Banker's runding"/>
+  <sentence name="PxWebAdminSettingsGlobalRoundingRuleRoundUp" value="Runda upp"/>
+  <sentence name="PxWebAdminSettingsGlobalRoundingRuleInfo" value="Hvussu skulu avrundingar gerast ('Banker's runding' ella 'runda upp')"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol1" value="Dátumerki 1"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol1Info" value="Tekstur at vísa fyri dátumerki 1"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol2" value="Dátumerki 2"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol2Info" value="Tekstur at vísa fyri dátumerki 2"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol3" value="Dátumerki 3"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol3Info" value="Tekstur at vísa fyri dátumerki 3"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol4" value="Dátumerki 4"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol4Info" value="Tekstur at vísa fyri dátumerki 4"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol5" value="Dátumerki 5"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol5Info" value="Tekstur at vísa fyri dátumerki 5"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol6" value="Dátumerki 6"/>
+  <sentence name="PxWebAdminSettingsGlobalSymbol6Info" value="Tekstur at vísa fyri dátumerki 6"/>
+  <sentence name="PxWebAdminSettingsGlobalDataSymbolNil" value="Dátumerki NIL"/>
+  <sentence name="PxWebAdminSettingsGlobalDataSymbolNilInfo" value="Tekstur at vísa fyri dátumerki NIL"/>
+  <sentence name="PxWebAdminSettingsGlobalDataSymbolSum" value="Dátumerki Samanteljing"/>
+  <sentence name="PxWebAdminSettingsGlobalDataSymbolSumInfo" value="Tekstur at vísa fyri, har fleiri sløg av dátumerkjum eru tald saman"/>
+  <sentence name="PxWebAdminSettingsGlobalShowSourceDescription" value="Vís keldulýsing"/>
+  <sentence name="PxWebAdminSettingsGlobalShowSourceDescriptionInfo" value="Um keldulýsingar skulu vísast fyri talvuna ella ikki"/>
+  <sentence name="PxWebAdminSettingsGlobalTableInformationLevel" value="Upplýsingarstøði fyri talvu"/>
+  <sentence name="PxWebAdminSettingsGlobalTableInformationLevelInfo" value="Stýra hvørjar upplýsingar verða vístar fyri talvuna"/>
+  <sentence name="PxWebAdminSettingsGlobalTableInformationLevelNone" value="Ongar upplýsingar"/>
+  <sentence name="PxWebAdminSettingsGlobalTableInformationLevelMandantoryFootnotesOnly" value="Bert kravdar viðmerkingar"/>
+  <sentence name="PxWebAdminSettingsGlobalTableInformationLevelAllFootnotes" value="Allar viðmerkingar"/>
+  <sentence name="PxWebAdminSettingsGlobalTableInformationLevelAllInformation" value="Allar upplýsingar"/>
+  <sentence name="PxWebAdminSettingsGlobalUpperCase" value="Við stórum"/>
+  <sentence name="PxWebAdminSettingsGlobalUpperCaseInfo" value="Um byrjunarstavurin í virðinum skal vísast við stórum"/>
+  <sentence name="PxWebAdminSettingsGlobalDataNotePlacement" value="Hvar dátuviðmerkingar skulu vísast"/>
+  <sentence name="PxWebAdminSettingsGlobalDataNotePlacementInfo" value="Ásetur, hvar dátuviðmerkingar skulu vísast. Dátuviðmerkingar kunnu setast framman fyri ella aftan fyri virðið"/>
+  <sentence name="PxWebAdminSettingsGlobalDataNotePlacementBeforeValue" value="Framman fyri virðið"/>
+  <sentence name="PxWebAdminSettingsGlobalDataNotePlacementAfterValue" value="Aftan fyri virðið"/>
+  <sentence name="PxWebAdminSettingsGlobalRemoveSingleContent" value="Taka burtur einstaka greining"/>
+  <sentence name="PxWebAdminSettingsGlobalRemoveSingleContentInfo" value="Tak greining burtur, um tað er bert tað eina virðið"/>
+  <sentence name="PxWebAdminSettingsGlobalStrictAggregationCheck" value="Neyv eftirkanning av bólking"/>
+  <sentence name="PxWebAdminSettingsGlobalStrictAggregationCheckInfo" value="Um neyv eftirkanning av bólkingini skal gerast ella ikki. Um sett til ja, má bólkingarfílan (.agg) hava lyklaorðið 'valueset' sett til navnið á virðismongdafílu (.vs), ið finst. Er ósamsvar, verður eingin bólking løgd aftrat."/>
+  <sentence name="PxWebAdminSettingsGlobalShowInformationTypes" value="Sløg av talvuupplýsingum"/>
+  <sentence name="PxWebAdminSettingsGlobalShowInformationTypesInfo" value="Hvørjar upplýsingar skulu vísast um talvuna"/>
+  <sentence name="PxWebAdminSettingsGlobalShowInfoFile" value="InfoFile"/>
+  <sentence name="PxWebAdminSettingsGlobalDetailedInformationInfo" value="Skal leinki til infofile vísast. Um metadátur verða vístar sum leinki, verður eitt leinki til InfoFile víst undir liðina á leinkjuni til viðmerkingar. Um metadátur skulu vísast á skiljiblaði, verður leinkið til InfoFile víst undir upplýsingarpartinum í 'Um talvuna'. Leinkið til InfoFile verður bara víst á síðuni, har greiningar verða valdar."/>
+  <sentence name="PxWebAdminSettingsAdministrationUseIPFilter" value="Nýta IP-filtur"/>
+  <sentence name="PxWebAdminSettingsAdministrationUseIPFilterInfo" value="Um IP-filtur skal nýtast ella ikki, tá innritað verður til umsitingarsíðurnar"/>
+  <sentence name="PxWebAdminSettingsAdministrationIPAddresses" value="IP-adressur"/>
+  <sentence name="PxWebAdminSettingsAdministrationIPAddressesInfo" value="Listi við IP-adressum við loyvi at sleppa fram at umsitingarsíðunum. Henda áseting hevur bert gildi, um 'Nýta IP-filtur' er sett til."/>
+  <sentence name="PxWebAdminSettingsAdministrationAddNewIPAddress" value="Leggja nýggja IP-adressu aftat"/>
+  <sentence name="PxWebAdminSettingsAdministrationInvalidIPAddress" value="Ógildug IP-adressa"/>
+  <sentence name="PxWebAdminSettingsMenuMenuMode" value="Slag av valmynd"/>
+  <sentence name="PxWebAdminSettingsMenuMenuModeInfo" value="Stýra hvussu valmyndin verður víst"/>
+  <sentence name="PxWebAdminSettingsMenuMenuModeList" value="Listi"/>
+  <sentence name="PxWebAdminSettingsMenuMenuModeTreeViewWithoutFiles" value="Vís sum træ við ongum fílum"/>
+  <sentence name="PxWebAdminSettingsMenuMenuModeTreeViewWithFiles" value="Vís sum træ við fílum"/>
+  <sentence name="PxWebAdminSettingsMenuMenuModeTreeViewAndFiles" value="Vís sum træ og fílar"/>
+  <sentence name="PxWebAdminSettingsMenuShowRoot" value="Vís rótina"/>
+  <sentence name="PxWebAdminSettingsMenuShowRootInfo" value="Skal rótin á trænum vísast ella ikki?"/>
+  <sentence name="PxWebAdminSettingsMenuExpandAll" value="Lat alt upp"/>
+  <sentence name="PxWebAdminSettingsMenuExpandAllInfo" value="Skal træið verða upplatið ella afturlatið?"/>
+  <sentence name="PxWebAdminSettingsMenuSortByAlias" value="Raðskipa eftir alias"/>
+  <sentence name="PxWebAdminSettingsMenuSortByAliasInfo" value="Skulu knútapunktini raðskipast eftir aliasnøvnum ella ikki?"/>
+  <sentence name="PxWebAdminSettingsMenuShowSelectionLink" value="Vís greiningar-leinki"/>
+  <sentence name="PxWebAdminSettingsMenuShowSelectionLinkInfo" value="Skal leinkið til síðuna, har brúkarin kann velja greiningar, verða vís ella ikki?"/>
+  <sentence name="PxWebAdminSettingsMenuShowDownloadLink" value="Vís leinki til niðurtøku"/>
+  <sentence name="PxWebAdminSettingsMenuShowDownloadLinkInfo" value="Skal leinki til staðið, har brúkarin kann taka talvuna niður sum fílu, vísast ella ikki"/>
+  <sentence name="PxWebAdminSettingsMenuShowDownloadLinkAlwaysHide" value="Krógva altíð"/>
+  <sentence name="PxWebAdminSettingsMenuShowDownloadLinkAlwaysShow" value="Vís altíð"/>
+  <sentence name="PxWebAdminSettingsMenuShowDownloadLinkShowIfSmallFile" value="Vís, um fílan er lítil"/>
+  <sentence name="PxWebAdminSettingsMenuViewLinkMode" value="Máti at vísa leinki"/>
+  <sentence name="PxWebAdminSettingsMenuViewLinkModeInfo" value="Máti at vísa leinki. Kann vera eitt av trimum: 'Fyrisettar greiningar' = Fyrisettu greiningarnar verða vístar í talvuni, tá brúkarin klikkir á leinkið. 'Allar greinngar' = Allar greiningarnar verða vístar í einari talvu, tá brúkarin klikkir leinkið. 'Krógvað' = Leinkið verður ikki víst."/>
+  <sentence name="PxWebAdminSettingsMenuViewLinkModeDefaultValues" value="Fyrisettar greiningar"/>
+  <sentence name="PxWebAdminSettingsMenuViewLinkModeAllValues" value="Allar greiningar"/>
+  <sentence name="PxWebAdminSettingsMenuViewLinkModeHidden" value="Krógvað"/>
+  <sentence name="PxWebAdminSettingsMenuNumberOfValuesInDefaultView" value="Tál á fyrisettum greiningum"/>
+  <sentence name="PxWebAdminSettingsMenuNumberOfValuesInDefaultViewInfo" value="Mesta tal av greiningum at velja við mátanum 'Fyrisettar greiningar'. Greiningarnar verða undanvaldar heldur enn at loyva brúkaranum at velja."/>
+  <sentence name="PxWebAdminSettingsMenuShowModifiedDate" value="Vís broytingardagfesting"/>
+  <sentence name="PxWebAdminSettingsMenuShowModifiedDateInfo" value="Ásetur um upplýsing um nær PX-fílan seinast varð dagførd skal vísast í PX-web ella ikki."/>
+  <sentence name="PxWebAdminSettingsMenuShowLastUpdated" value="Vís dagfesting á seinastu dagføring"/>
+  <sentence name="PxWebAdminSettingsMenuShowLastUpdatedInfo" value="Ásetur um LAST-UPDATED í PX-fíluni skal vísast í PX-Web ella ikki"/>
+  <sentence name="PxWebAdminSettingsMenuShowFileSize" value="Vís fílustødd"/>
+  <sentence name="PxWebAdminSettingsMenuShowFileSizeInfo" value="Um stødd á fíluni skal upplýsast ella ikki"/>
+  <sentence name="PxWebAdminSettingsMenuShowTableCategory" value="Vís talvu-slag"/>
+  <sentence name="PxWebAdminSettingsMenuShowTableCategoryInfo" value="Um slag av talvu skal upplýsast ella ikki"/>
+  <sentence name="PxWebAdminSettingsMenuShowTableUpdatedAfterPublish" value="Vísa dagført aftan á útgávudagin"/>
+  <sentence name="PxWebAdminSettingsMenuShowTableUpdatedAfterPublishInfo" value="Ásetur um tað skal upplýsast ella ikki, um talvurnar hava verið dagførdar eftir at tær eru givnar út."/>
+  <sentence name="PxWebAdminSettingsMenuShowVariablesAndValues" value="Vísa greiningar og virði"/>
+  <sentence name="PxWebAdminSettingsMenuShowVariablesAndValuesInfo" value="Um upplýsingar um greiningar og virði skulu vísast ella ikki"/>
+  <sentence name="PxWebAdminSettingsMenuMetadataAsIcons" value="Metadátur sum ímyndir"/>
+  <sentence name="PxWebAdminSettingsMenuMetadataAsIconsInfo" value="Um metadátur fyri talvuna skal vísast sum ímynd aftan fyri talvunavnið ella sum tekstur. Um sett til 'Ja' verða ímyndir nýttar, annars tekstur."/>
+  <sentence name="PxWebAdminSettingsMenuShowTextToMetadata" value="Um frágreiðing skal vísast saman við metadátum."/>
+  <sentence name="PxWebAdminSettingsMenuShowTextToMetadataInfo" value="Vísa frágreiðing um talvu-metadáturnar. Um sett til 'Ja', verður til dømis vístur teksturin 'Broytt:' settur framman fyri broytingardagfestingina á metadátufíluni. Um 'Nej' er verður dagfestingin víst uttan tekstlýsing."/>
+  <sentence name="PxWebAdminSettingsSelectionCellLimitScreen" value="Mesta tal av linjum á skíggjanum"/>
+  <sentence name="PxWebAdminSettingsSelectionCellLimitScreenInfo" value="Mesta talið av puntum, sum kunnu vísast á skíggjanum"/>
+  <sentence name="PxWebAdminSettingsSelectionShowMandatoryMark" value="Vísa kravdu greiningarvalini"/>
+  <sentence name="PxWebAdminSettingsSelectionShowMandatoryMarkInfo" value="Um kravdar greiningar skulu vísast ella ikki"/>
+  <sentence name="PxWebAdminSettingsSelectionAllowAggregations" value="Loyva bólkingum"/>
+  <sentence name="PxWebAdminSettingsSelectionAllowAggregationsInfo" value="Um tað skal verða loyvt at bólka greiningar ella ikki"/>
+  <sentence name="PxWebAdminSettingsSelectionShowHierarchies" value="Vísa stigskipanir (hierarki)"/>
+  <sentence name="PxWebAdminSettingsSelectionShowHierarchiesInfo" value="Um stigskipanir (hierarki) skal vísast ella ikki"/>
+  <sentence name="PxWebAdminSettingsSelectionHierarchicalLevelsOpen" value="Stig í stigskipani at lata upp"/>
+  <sentence name="PxWebAdminSettingsSelectionHierarchicalLevelsOpenInfo" value="Hvussu nógv stig í stigskipanini skulu latast upp frá byrjan"/>
+  <sentence name="PxWebAdminSettingsSelectionShowMarkingTips" value="Vísa leiðbeiningar at velja"/>
+  <sentence name="PxWebAdminSettingsSelectionShowMarkingTipsInfo" value="Um leiðbeiningar at velja greiningar skulu vísast ella ikki"/>
+  <sentence name="PxWebAdminSettingsSelectionMarkingTipsURL" value="URL til leiðbeiningar at velja"/>
+  <sentence name="PxWebAdminSettingsSelectionMarkingTipsURLInfo" value="URL til netsíðu við ráðum til avmarkingar"/>
+  <sentence name="PxWebAdminSettingsSelectionMaxRowsWithoutSearch" value="Mesta tal av røðum uttan leiting"/>
+  <sentence name="PxWebAdminSettingsSelectionMaxRowsWithoutSearchInfo" value="Mesta talið av greiningum í einari valmynd. Um greiningarnar eru fleiri, má brúkarin velja við leiti-hentleikanum."/>
+  <sentence name="PxWebAdminSettingsSelectionAlwaysShowTimeVariableWithoutSearch" value="Vís tíðarbil uttan leiting"/>
+  <sentence name="PxWebAdminSettingsSelectionAlwaysShowTimeVariableWithoutSearchInfo" value="Vís altíð tíðarbil uttan leiting, eisini um virðini eru fleiri enn ásetta mesta talið av røðum uttan leiting."/>
+  <sentence name="PxWebAdminSettingsSelectionListSize" value="Vís stødd á lista"/>
+  <sentence name="PxWebAdminSettingsSelectionListSizeInfo" value="Tal á røðum (hædd) í greiningarveljaranum"/>
+  <sentence name="PxWebAdminSettingsSelectionShowSelectionLimits" value="Vís greiningamørk"/>
+  <sentence name="PxWebAdminSettingsSelectionShowSelectionLimitsInfo" value="Um upplýsingar um greiningamørk skulu vísast ella ikki"/>
+  <sentence name="PxWebAdminSettingsSelectionOutputFormats" value="Útlestursnið"/>
+  <sentence name="PxWebAdminSettingsSelectionOutputFormatsInfo" value="Tey valdu útlestursniðini (skíggjasnið og fílusnið) í at velja í PX-Web"/>
+  <sentence name="PxWebAdminSettingsSelectionPresentationViews" value="Skíggjasnið:"/>
+  <sentence name="PxWebAdminSettingsSelectionFileFormats" value="Fílusnið:"/>
+  <sentence name="PxWebAdminSettingsSelectionValuesetMustBeSelectedFirst" value="Greining skal veljast"/>
+  <sentence name="PxWebAdminSettingsSelectionValuesetMustBeSelectedFirstInfo" value="Um sett til 'Ja', krevst at brúkarin fyrst velur virðismongd (um nøkut virðismongd er atknýtt), áðrenn greiningar kunnu veljast"/>
+  <sentence name="PxWebAdminSettingsSelectionShowAllAvailableValuesSearchButton" value="Vís 'Øll tøk virði'"/>
+  <sentence name="PxWebAdminSettingsSelectionShowAllAvailableValuesSearchButtonInfo" value="Um knappurin 'Vís øll øk virði' skalvísast í leitirútinum. Ávaring! Um hetta verður sett til, kann tað hava við sær vevsíður, ið eru stórar og drúgvar at heinta."/>
+  <sentence name="PxWebAdminSettingsSelectionTitleFromMenu" value="Tak talvuheiti frá valmynd"/>
+  <sentence name="PxWebAdminSettingsSelectionTitleFromMenuInfo" value="Um sett til 'Ja', verður talvuheitið víst sum í valmyndini"/>
+  <sentence name="PxWebAdminSettingsSelectionMetadataAsLinks" value="Metadátur sum leinki"/>
+  <sentence name="PxWebAdminSettingsSelectionMetadataAsLinksInfo" value="Um talvumetadátur (viðmerkingar og upplýsingar) skulu vísast sum leinki ella beinleiðis á valsíðuni."/>
+  <sentence name="PxWebAdminSettingsNavigationNavigationFlowVisible" value="Vísa slóðina í valtilgongdini"/>
+  <sentence name="PxWebAdminSettingsNavigationNavigationFlowVisibleInfo" value="Vísa stigini í valtilgongdini 'Vel talvu', 'Vel greining' og 'Vís talvu' undir talvuslóðini ('breyðmolunum')."/>
+  <sentence name="PxWebAdminSettingsSelectionSearchButtonMode" value="Vísa leitiknapp"/>
+  <sentence name="PxWebAdminSettingsSelectionSearchButtonModeManyValues" value="Nógv virði"/>
+  <sentence name="PxWebAdminSettingsSelectionSearchButtonModeAlways" value="Altíð"/>
+  <sentence name="PxWebAdminSettingsSelectionSearchButtonModeInfo" value="Stýrir nær leitiknappurin skal vísast"/>
+  <sentence name="PxWebAdminSettingsValidationMandatorySetting" value="Kravd áseting"/>
+  <sentence name="PxWebAdminSettingsValidationNonexistentPath" value="Stíggjurin ikki funnin"/>
+  <sentence name="PxWebAdminSettingsValidationNonexistentImage" value="Myndin ikki funnin"/>
+  <sentence name="PxWebAdminSettingsValidationIntegerValue" value="Má vera eitt heilt tal"/>
+  <sentence name="PxWebAdminSettingsValidationTooLargeIntegerValue" value="Kann ikki vera størri enn 2147483647"/>
+  <sentence name="PxWebAdminSettingsValidationGreaterThanZero" value="Virðið má vera størri enn 0"/>
+  <sentence name="PxWebAdminSettingsValidationIllegalCharacter" value="Ógildir stavir eru uppi í fyrispurninginum"/>
+  <sentence name="PxWebAdminSettingsValidationBiggerThanMaxSetting" value="Kann ikki fara upp um ásetta mestavirðið ({0})"/>
+  <sentence name="PxWebAdminSettingsValidationMaximumValue" value="Mesta virðið er {0}."/>
+  <sentence name="PxWebAdminSettingsValidationIllegalColorCode" value="Ógildug litkota (væntað snið er #AAAAAA)"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderOperations" value="Hentleikar"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderOperationsInfo" value="Avmerktu hentleikarnir verða tøkir hjá PX-Web-brúkarunum"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderFileformats" value="Fílusnið"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderFileformatsInfo" value="Avvmertktu fílusniðini verða tøk hjá PX-Web-brúkarunum"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderButton" value="Knappur"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderButtonInfo" value="Avmerktu hentleikarnir verða tøkir hjá PX-Web-brúkarunum"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderShortcut" value="Snarleið"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderShortcutInfo" value="Um snarleið"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderPresentationViews" value="Skíggjasnið"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderPresentationViewsInfo" value="Tey avmerktu skíggjasniðini vera tøk hjá PX-Web-brúkarunum"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarViewModeText" value="Vísimáti"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarViewModeDropDown" value="Vallistar"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarViewModeImageButtons" value="Knappar"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarViewModeHidden" value="Krógvað"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderSetting" value="Hentleikar"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderDropDown" value="Vallisti"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderButton2" value="Knappur"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderOperationShortcut" value="Snarleið"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderPresentationView" value="Skíggjasnið"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderPresentationViewShortcut" value="Snarleið"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderCommandbarShortcut" value="Stýripultasnarvegur"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderFileFormat" value="Fílusnið"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderFileFormatDropDown" value="Vallisti"/>
+  <sentence name="PxWebAdminSettingsPresentationCommandBarHeaderFileFormatShortcut" value="Snarleið"/>
+  <sentence name="PxWebAdminSettingsPresentationGeneralPromptNotes" value="Vísa kravdar viðmerkingar"/>
+  <sentence name="PxWebAdminSettingsPresentationGeneralPromptNotesInfo" value="Um kravdar viðmerkingar skulu vísast, tá talvan verður víst"/>
+  <sentence name="PxWebAdminSettingsPresentationTableTransform" value="Talvutillaging"/>
+  <sentence name="PxWebAdminSettingsPresentationTableTransformInfo" value="Um talvan skal tillagast sjálvvirkandi áðrenn hon verður víst fyri brúkaranum"/>
+  <sentence name="PxWebAdminSettingsPresentationTableTransformNoTransformation" value="Eingin tillaging"/>
+  <sentence name="PxWebAdminSettingsPresentationTableTransformSingleValueFirst" value="Stakvirði fyrst"/>
+  <sentence name="PxWebAdminSettingsPresentationTableTransformSingleValueFirstAndHeaderOnlyOneMultiple" value="Bert ein fleirvirðis-greining í talvuhøvdið"/>
+  <sentence name="PxWebAdminSettingsPresentationDefaultLayout" value="Fyrisett talvusnið"/>
+  <sentence name="PxWebAdminSettingsPresentationDefaultLayoutInfo" value="Fyrisetta sniðið at nýta, tá talva verður víst fyri brúkaranum"/>
+  <sentence name="PxWebAdminSettingsPresentationDefaultLayoutLayout1" value="Snið 1"/>
+  <sentence name="PxWebAdminSettingsPresentationDefaultLayoutLayout2" value="Snið 2"/>
+  <sentence name="PxWebAdminSettingsPresentationTableMaxRows" value="Mesta tal á røðum"/>
+  <sentence name="PxWebAdminSettingsPresentationTableMaxRowsInfo" value="Mesta talið á røðum í talvu at vísa á skíggja. Um talvan aftanfyri hevur fleiri røð enn hetta, verður talvan skerd."/>
+  <sentence name="PxWebAdminSettingsPresentationTableMaxColumns" value="Mesta tal á teigum"/>
+  <sentence name="PxWebAdminSettingsPresentationTableMaxColumnsInfo" value="Mesta talið á teigum í talvu at vísa á skíggja. Um talvan aftanfyri hevur fleiri teigar enn hetta, verður talvan skerd."/>
+  <sentence name="PxWebAdminSettingsPresentationTableTitleVisible" value="Vís talvuheiti"/>
+  <sentence name="PxWebAdminSettingsPresentationTableTitleVisibleInfo" value="Um talvuheitið skal vísast í talvuni ella ikki"/>
+  <sentence name="PxWebAdminSettingsPresentationTableDisplayAttributes" value="Vís puntaviðmerkingar"/>
+  <sentence name="PxWebAdminSettingsPresentationTableDisplayAttributesInfo" value="Um puntaviðmerkingar skulu víasast elle ikki. Vístar verða upplýsinga og viðmerkingar um puntar."/>
+  <sentence name="PxWebAdminSettingsPresentationTableDisplayDefaultAttributes" value="Vís fyrisettar upplýsingar"/>
+  <sentence name="PxWebAdminSettingsPresentationTableDisplayDefaultAttributesInfo" value="Um fyrisettu upplýsingarnar fyri talvuna skulu vísast undir talvuni ella ikki"/>
+  <sentence name="PxWebAdminToolsGenerateDbSelectDb" value="Bygg PX-dátustovn"/>
+  <sentence name="PxWebAdminToolsGenerateCnmmDbSelectDb" value="Bygg CNMM-dátustovn"/>
+  <sentence name="PxWebAdminToolsGenerateDbSelectDbInfo" value="Vel dátustovn at byggja dátustovns-upplýsingafílu til"/>
+  <sentence name="PxWebAdminToolsGenerateCnmmDbSelectDbInfo" value="Vel dátustovn at byggja dátustovns-upplýsingafílu til"/>
+  <sentence name="PxWebAdminToolsGenerateDbLanguageDependent" value="Tungumálstreytað"/>
+  <sentence name="PxWebAdminToolsGenerateDbLanguageDependentInfo" value="Vís bara fílur á valda tungumálinum"/>
+  <sentence name="PxWebAdminToolsGenerateDbSortOrder" value="Raðskipingar-raðfylgja"/>
+  <sentence name="PxWebAdminSortOrderFileName" value="Fílunavn"/>
+  <sentence name="PxWebAdminSortOrderMatrix" value="Matrisa"/>
+  <sentence name="PxWebAdminSortOrderTitle" value="Talvuheiti"/>
+  <sentence name="PxWebAdminToolsGenerateDbSortOrderInfo" value="Vel lykil at stýra raðskipingini í talvunum."/>
+  <sentence name="PxWebAdminToolsGenerateDbCreateIndex" value="Bygg leiti-indeks"/>
+  <sentence name="PxWebAdminToolsGenerateDbCreateIndexInfo" value="Um valt, verður leiti-indeks gjørt sjálvvirkandi, tá dátustovnurin er bygdur"/>
+  <sentence name="PxWebAdminToolsGenerateDbCreateIndexInitiated" value="Bygging av leiti-indeksi byrjað"/>
+  <sentence name="PxWebAdminToolsLanguageManagerSelectLanguage" value="--- Vel tungumál ---"/>
+  <sentence name="PxWebAdminToolsLanguageManagerInfo" value="Vel tað tungumálið tú vilt broyta. Lykil = Lykil ið eyðmerkir ein setning í skipanini, At taka til = settningur at nýta, um eingin umseting finst. Mál = Setningurin í  valda tungumálinum"/>
+  <sentence name="PxWebAdminToolsLanguageManagerSelectLanguageError" value="Tú mást velja tungumál"/>
+  <sentence name="PxWebAdminToolsLanguageManagerKey" value="Lykil"/>
+  <sentence name="PxWebAdminToolsLanguageManagerFallback" value="At taka til"/>
+  <sentence name="PxWebAdminToolsLanguageManagerLanguage" value="Tungumál"/>
+  <sentence name="PxWebAdminToolsResetAll" value="Frumstilla alt"/>
+  <sentence name="PxWebAdminToolsResetAllInfo" value="Frumstilla allar PX-Web funktiónir"/>
+  <sentence name="PxWebAdminToolsResetLanguage" value="Frumstilla tungumál"/>
+  <sentence name="PxWebAdminToolsResetLanguageInfo" value="Frumstilla tungumál í PX-Web"/>
+  <sentence name="PxWebAdminToolsResetAggregation" value="Frumstilla bólkingar"/>
+  <sentence name="PxWebAdminToolsResetAggregationInfo" value="Bólkingar verða endurinnlisnar"/>
+  <sentence name="PxWebAdminToolsResetDatabases" value="Frumstilla dátustovnar"/>
+  <sentence name="PxWebAdminToolsResetDatabasesInfo" value="Dátustovnar verða endurinnlisnir"/>
+  <sentence name="PxWebAdminToolsChangePasswordOld" value="Gamalt loyniorð"/>
+  <sentence name="PxWebAdminToolsChangePasswordNew" value="Nýtt loyniorð"/>
+  <sentence name="PxWebAdminToolsChangePasswordVerify" value="Sanna nýtt loyniorð"/>
+  <sentence name="PxWebAdminToolsChangePasswordChange" value="Skift!"/>
+  <sentence name="PxWebAdminToolsChangePasswordWrongPassword" value="Ikki rætta loyniorðið"/>
+  <sentence name="PxWebAdminToolsChangePasswordVerifyIncorrect" value="Eftirkanningarvilla"/>
+  <sentence name="PxWebAdminToolsChangePasswordSuccess" value="Loyniorðið er broytt"/>
+  <sentence name="PxWebAdminFeaturesGeneralFeature" value="Hentleiki"/>
+  <sentence name="PxWebAdminFeaturesGeneralFeatureInfo" value="Valdu hentleikarnir verða tøkir í umsitingarpartinum av PX-Web"/>
+  <sentence name="PxWebAdminFeaturesGeneralFeatureCharts" value="Talmynd"/>
+  <sentence name="PxWebAdminFeaturesGeneralFeatureApi" value="API"/>
+  <sentence name="PxWebAdminFeaturesGeneralFeatureSavedQuery" value="Goymdur fyrispurningur"/>
+  <sentence name="PxWebAdminFeaturesGeneralFeatureUserFriendlyUrls" value="Brúkaravinarligir URL-ar"/>
+  <sentence name="PxWebAdminFeaturesGeneralFeatureUserStatistics" value="Brúkarahagtøl"/>
+  <sentence name="PxWebAdminFeaturesGeneralFeatureSearch" value="Leita"/>
+  <sentence name="PxWebAdminFeaturesGeneralFeatureBackgroundWorker" value="Bakgrundstilgongd"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralChartSettings" value="Talymyndaásetingar"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralUserSettings" value="Fyrisett brúkaravirði"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralFontName" value="Skriftsnið"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralFontNameInfo" value="Skriftsnið í talmynd"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralFontSizeTitle" value="Skriftstødd í heitinum"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralFontSizeTitleInfo" value="Skriftstødd á talmyndaheiti"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralFontSizeAxis" value="Skriftstødd ásir"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralFontSizeAxisInfo" value="Skriftstødd á talmyndaásunum"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralHeight" value="Hædd"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralHeightInfo" value="Fyrisett virði fyri brúkarasetta virðið 'hædd'"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralMaxHeight" value="Mesta hædd"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralMaxHeightInfo" value="Mesta hæddin fyri talmyndina"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralWidth" value="Breidd"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralWidthInfo" value="Fyrisett virði fyri brúkarasetta virðið 'breidd'"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralMaxWidth" value="Mesta breidd"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralMaxWidthInfo" value="Mesta breiddin fyri talmyndina"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLineThickness" value="Linjutjúkd"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLineThicknessInfo" value="Fyrisett virði fyri brúkarasetta virðið 'Linjutjúkd'"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralMaxLineThickness" value="Mesta linjutjúkd"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralMaxLineThicknessInfo" value="Linjutjúldin kann ikki fara upp um hetta virðið"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLabelOrientation" value="Merkið vendir"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLabelOrientationHorizontal" value="Vatnrætt"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLabelOrientationVertical" value="Loddrætt"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLabelOrientationInfo" value="Fyrisetta virði fyri 'Merkið vendir'"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralTimeSortOrder" value="Raðfylgja á tíðarraðskiping"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralTimeSortOrderAscending" value="Vaksandi"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralTimeSortOrderDescending" value="Minkandi"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralTimeSortOrderNone" value="Eingin"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralTimeSortOrderInfo" value="Fyrisett virði á brúkarasetta virðinum 'Raðfylgja á tíðarraðskiping'"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralShowLegend" value="Vís frágreiðing"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralShowLegendInfo" value="Fyrisett virði á brúkarasetta virðinum 'Vís frágreiïng'"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLegendHeight" value="Hædd á frágreiðing"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLegendHeightInfo" value="Fyrisett virði á brúkarasetta virðinum 'Hædd á frágreiðing'"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLegendFontSize" value="Skriftstødd á frágreiðing"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLegendFontSizeInfo" value="Skriftstøddin á frágreiðingina til talmyndina"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralGuidelinesColor" value="Litur á talmyndalinjum"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralGuidelinesColorInfo" value="Liturin á talmyndinalinjunum"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralGuidelinesHorizontal" value="Vatnrættar talmyndalinjur"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralGuidelinesHorizontalInfo" value="Fyrisett virði á brúkarasetta virðinum 'Vatnrættar talmyndalinjur'"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralGuidelinesVertical" value="Loddrættar talmyndalinjur"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralGuidelinesVerticalInfo" value="Fyrisett virði á brúkarasetta virðinum 'Loddrættar talmyndalinjur'"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralMaxValues" value="Mesta puntatal"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralMaxValuesInfo" value="Mesta talið á puntum (úrsliti av øllum virðum) ið kunnu veljast til ein talmynd. Um feliri puntar enn hetta verða valdir, verður eingin talmynd víst. Henda ásetingin er sett fyri ikki at ovbyrða ambætaran við tungum útrokningum í ovurstórum talmyndin."/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralColors" value="Litir"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralColorsInfo" value="Litir í talmyndini"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralAddColor" value="Legg lit aftrat"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralDeleteColor" value="Tak lit burtur"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralShowSourse" value="Vís keldu"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralShowSourseInfo" value="Vís kelduna til talmyndina"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralShowLogo" value="Vís slag av búmerki"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralShowLogoInfo" value="Vísa búmerkjaslag ....."/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLogoImg" value="Vel mynd til búmerki"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLogoImgInfo" value="Vel myndina til búmerkið til talmyndina."/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLineColorPhrame" value="Litur á rammu"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLineColorPhrameInfo" value="Vel litin á rammuni um talmyndina. Um eingin linjutjúkd er ásett, verður eingin ramma."/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLineThicknessPhrame" value="Linjutjúkd á rammu"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralLineThicknessPhrameInfo" value="Vel linjutjúkd á rammuni um talmyndina. Um ikki ásett, verður eingin ramma."/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralBackgroundColorGraphs" value="Baksýnislitur á talmynd"/>
+  <sentence name="PxWebAdminFeaturesChartsGeneralBackgroundColorGraphsInfo" value="Vel litin, ið skal síggjast aftan fyri talmyndina"/>
+  <sentence name="PxWebChartsSourceLabel" value="Kelda:"/>
+  <sentence name="PxWebChartsSource" value="Svenska Hagstovan (SCB)"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralApiSettings" value="API-ásetingar"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralApiPxDatabases" value="PX-dátustovnar"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralApiPxDatabasesInfo" value="Ásetur hvørjir PX -dátustovnar skulu verða tøkir umvegis API og á hvørjum tungumálum"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralApiCnmmDatabases" value="CNMM-dátustovnar"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralApiCnmmDatabasesInfo" value="Ásetur hvørjir CNMM -dátustovnar skulu verða tøkir umvegis API og á hvørjum tungumálum"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralRoutePrefix" value="Beinara-forskoyti"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralRoutePrefixInfo" value="URL til API-uppslag"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralMaxValuesReturned" value="Mesta tal á svarvirðum"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralMaxValuesReturnedInfo" value="Mesta talið á virðum, ið kunnu verða svar til API-fyrispurning"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralLimiterRequests" value="Fyrispurningaavmarking"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralLimiterRequestsInfo" value="Mesta talið av fyrispurningum, ið kunnu seta umvegis API-ið (virkar saman við tíðaravmarkingina)"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralLimiterTimespan" value="Tíðaravmarking"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralLimiterTimespanInfo" value="Tíðaravmarkar hvussu nógvar API-fyrispurningar kunnu setast (sí Fyrispurningaavmarking)"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralEnableCORS" value="Loyva CORS"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralEnableCORSInfo" value="Er Cross-Origin-Resource-Sharing loyvd?"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralEnableCache" value="Nýta kova (cache)"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralEnableCacheInfo" value="Um API-fyrispurningar skulu goymast í kova ella ikki"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralClearCache" value="Tøm kova (cache)"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralClearCacheInfo" value="Um ásett, verður kovin tømdur til ásettu tíð(ir). Set semikolon millum tíðarásetingarnar. Dømi: 09:30;12:00;13:49"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralShowQueryInformation" value="Vís hjál til API"/>
+  <sentence name="PxWebAdminFeaturesApiGeneralShowQueryInformationInfo" value="Um sett til 'Ja', verður leinki til API-hjálp víst á PX-Web-myndini. Tá klikt verður á leinkið, verður víst, hvussu verandi talvan kann røkkast umvegis API."/>
+  <sentence name="PxWebAdminFeaturesSaveQueryGeneralSaveQuerySettings" value="Ásetingar fyri goymdan fyrispurning"/>
+  <sentence name="PxWebAdminSettingsSavedQueryStorageType" value="Goymsluháttur"/>
+  <sentence name="PxWebAdminSettingsSavedQueryStorageTypeFile" value="Fíla"/>
+  <sentence name="PxWebAdminSettingsSavedQueryStorageTypeDatabase" value="Dátustovnur"/>
+  <sentence name="PxWebAdminSettingsSavedQueryStorageTypeInfo" value="Ásetur um goymdir fyrispurningar verða goymdir á vev-ambætara ella í dátustovni"/>
+  <sentence name="PxWebAdminFeaturesSaveQueryGeneralSaveQueryPxDatabases" value="PX-dátustovnar"/>
+  <sentence name="PxWebAdminFeaturesSaveQueryGeneralSaveQueryPxDatabasesInfo" value="Ásetur hvørjir PX-dátustovnar skulu hava møguleika goymdan fyrispurning til taks"/>
+  <sentence name="PxWebAdminFeaturesSaveQueryGeneralSaveQueryCnmmDatabases" value="CNMM-dátustovnar"/>
+  <sentence name="PxWebAdminFeaturesSaveQueryGeneralSaveQueryCnmmDatabasesInfo" value="Ásetur hvørjir CNMM-dátustovnar skulu hava møguleika goymdan fyrispurning til taks"/>
+  <sentence name="PxWebAdminFeaturesSearchGeneralSearchSettings" value="Leitiásetingar"/>
+  <sentence name="PxWebAdminFeaturesSearchGeneralCacheTime" value="Tíð í kova (cache)"/>
+  <sentence name="PxWebAdminFeaturesSearchGeneralCacheTimeInfo" value="Tal á minuttum, leitiindeksið verður verðandi í kovanum."/>
+  <sentence name="PxWebAdminFeaturesSearchGeneralResultListLength" value="Mesta lista-longd"/>
+  <sentence name="PxWebAdminFeaturesSearchGeneralResultListLengthInfo" value="Mesta talið á talvum, ið verða vístar á lista yvir leitiúrslit"/>
+  <sentence name="PxWebAdminFeaturesSearchGeneralDefaultOperator" value="Fyrisettur samanteingjari"/>
+  <sentence name="PxWebAdminFeaturesSearchGeneralDefaultOperatorInfo" value="Fyriasetta virðið av AND/OR at samanteingja leitiorð við"/>
+  <sentence name="PxWebAdminFeaturesSearchGeneralDefaultOperatorAnd" value="AND"/>
+  <sentence name="PxWebAdminFeaturesSearchGeneralDefaultOperatorOr" value="OR"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralSettings" value="Ásetingar fyri bakgrundstilgond"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralSleepTime" value="Steðgur"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralSleepTimeInfo" value="Tal á sekundum bakgrundstilgongdin skal steðga millum endurtøkur."/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralStatus" value="Støða:"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralStatusInfo" value="Lýsur verandi støðu í bakgrundstilgongdini"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralCurrentActivity" value="Virki beint nú"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerGeneralCurrentActivityInfo" value="Hvat bakgrundstilgongdin fer beint nú"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerStop" value="Steðga"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerRestart" value="Endurstarta"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerWakeUp" value="Vek"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerConfirmStop" value="Vilt tú steðga bakgrundsrilgongdini?"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerConfirmStart" value="Vilt tú starta bakgrundsrilgongdini?"/>
+  <sentence name="PxWebAdminFeaturesBackgroundWorkerConfirmWakeUp" value="Vilt tú vekja bakgrundstilgongdini?"/>
+  <sentence name="PxWebAdminSettingsGeneralSiteApplicationName" value="Navn á skipan"/>
+  <sentence name="PxWebAdminSettingsGeneralSiteApplicationNameInfo" value="Navnið á PX-Web uppsetingini"/>
+  <sentence name="PxWebAdminSettingsGeneralSiteLogoPath" value="Búmerkjastíggjur"/>
+  <sentence name="PxWebAdminSettingsGeneralSiteLogoPathInfo" value="Navnið á búmerkjafíluni"/>
+  <sentence name="PxWebAdminSettingsLanguageDefaultLanguage" value="Fyrisett tungumál"/>
+  <sentence name="PxWebAdminSettingsLanguageDefaultLanguageInfo" value="Tungumálið, ið skal verða fyrivalt, tá PX-Web startar"/>
+  <sentence name="PxWebAdminSettingsLanguageSiteLanguages" value="Tungumál"/>
+  <sentence name="PxWebAdminSettingsLanguageSiteLanguagesInfo" value="Tey valdu tungumálini verða í at velja hjá brúkarunm á vev-staðnum."/>
+  <sentence name="PxWebAdminSettingsLanguageDecimalSeparator" value="Desimaltekn"/>
+  <sentence name="PxWebAdminSettingsLanguageDecimalSeparatorInfo" value="Tekn at nýta sum desimaltekn"/>
+  <sentence name="PxWebAdminSettingsLanguageDecimalSeparatorPoint" value="Punktum"/>
+  <sentence name="PxWebAdminSettingsLanguageDecimalSeparatorComma" value="Komma"/>
+  <sentence name="PxWebAdminSettingsLanguageThousandSeparator" value="Túsundamarkari"/>
+  <sentence name="PxWebAdminSettingsLanguageThousandSeparatorInfo" value="Tekn at nýta sum túsundamarkara"/>
+  <sentence name="PxWebAdminSettingsLanguageThousandSeparatorNone" value="EInki"/>
+  <sentence name="PxWebAdminSettingsLanguageThousandSeparatorSpace" value="Millumrúm"/>
+  <sentence name="PxWebAdminSettingsLanguageThousandSeparatorPoint" value="Punktum"/>
+  <sentence name="PxWebAdminSettingsLanguageThousandSeparatorComma" value="Komma"/>
+  <sentence name="PxWebAdminSettingsLanguageDateFormat" value="Dagfestingarsnið"/>
+  <sentence name="PxWebAdminSettingsLanguageDateFormatInfo" value="Ásetur, hvussu dagfestingar skulu vísast"/>
+  <sentence name="PxWebAdminYes" value="Ja"/>
+  <sentence name="PxWebAdminNo" value="Nei"/>
+  <sentence name="PxWebAdminConfirmSaveSettings" value="Vilt tú goyma ásetingarnar?"/>
+  <sentence name="PxWebAdminConfirmGenerateDb" value="Vilt tú byggja nýggjan dátustovn?"/>
+  <sentence name="PxWebAdminSettingsImplementedInComingVersions" value="Hesin hentleiki verður verksettur í einari komandi útgávu av PX-Web"/>
+  <sentence name="UnauthorizedTableMessage" value="Tú hevur ikki neyðuga loyvið at síggja hesa talvu !"/>
+  <sentence name="UnauthorizedTableTitle" value="Atgongd sýtt"/>
+  <sentence name="UnauthorizedDatabaseMessage" value="Tú hevur ikki neyðuga loyvið at síggja henda dátustovn!"/>
+  <sentence name="UnauthorizedDatabaseTitle" value="Atgongd sýtt"/>
+  <sentence name="PxWebAdminUsers" value="Brúkarar"/>
+  <sentence name="PxWebAdminUsersGeneral" value="Alment"/>
+  <sentence name="PxWebAdminUsersUsername" value="Brúkaranavn"/>
+  <sentence name="PxWebAdminUsersPassword" value="Loyniorð"/>
+  <sentence name="PxWebAdminUsersMail" value="teldupostur"/>
+  <sentence name="PxWebAdminUsersLocked" value="Læst"/>
+  <sentence name="PxWebAdminUsersCreateNewUser" value="Stovna nýggjan brúkara"/>
+  <sentence name="PxWebAdminUsersCreateNew" value="Stovna"/>
+  <sentence name="PxWebAdminUsersAdmin" value="Admin"/>
+  <sentence name="PxWebAdminUsersDelete" value="Strika"/>
+  <sentence name="PxWebAdminUsersEdit" value="Rætta"/>
+  <sentence name="PxWebAdminUsersUpdate" value="Dagfør"/>
+  <sentence name="PxWebAdminUsersCancel" value="Ógilda"/>
+  <sentence name="PxWebAdminUsersErrorMail" value="Teldupostur ikki rætt útfyltur"/>
+  <sentence name="PxWebAdminUsersLogin" value="Innrita"/>
+  <sentence name="PxWebAdminUsersAddedUser" value="Er lagdur/løgd aftrat sum brúkari"/>
+
+</language>

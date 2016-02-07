@@ -83,10 +83,7 @@
     <Content Include="ext\PCAxis.PX.Core.dll" />
     <Content Include="ext\PxMenu.dll" />
     <None Include="App.config" />
-    <None Include="Languages\pxlang.fi.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="Languages\pxlang.sv.xml">
+    <None Include="Languages\pxlang.fo.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="Languages\pxlang.xml">
