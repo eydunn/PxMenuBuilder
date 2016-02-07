@@ -19,7 +19,7 @@ namespace MenuBuilder
             List<string> languages = new List<string>();
             languages.Add(defaultLanguage);
             bool languageDependent = true;
-            string sortOrder = "title";
+            string sortOrder = "matrix";
             string path = "";
             for (int i = 1; i < args.Length; i++)
             {
