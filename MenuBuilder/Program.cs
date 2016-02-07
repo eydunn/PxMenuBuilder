@@ -90,7 +90,7 @@ namespace MenuBuilder
 
             if (!System.IO.Directory.Exists(path))
             {
-                Console.WriteLine("Path " + path + " dose not exisit.");
+                Console.WriteLine("Path " + path + " does not exist.");
                 PrintUsage();
                 return;
             }
@@ -110,12 +110,19 @@ namespace MenuBuilder
         {
             DatabaseSpider spider;
             spider = new DatabaseSpider();
+            
             IItemHandler handler = new AliasFileHandler();
             handler.Initialize(defaultLanguage);
             spider.Handles.Add(handler);
+            
             handler = new LinkFileHandler();
             handler.Initialize(defaultLanguage);
             spider.Handles.Add(handler);
+            
+            handler = new MenuSortFileHandler();
+            handler.Initialize(defaultLanguage);
+            spider.Handles.Add(handler);
+            
             handler = new PxFileHandler();
             handler.Initialize(defaultLanguage);
             spider.Handles.Add(handler);

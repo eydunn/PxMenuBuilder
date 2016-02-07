@@ -37,7 +37,7 @@ namespace MenuBuilder
         {
             if (path.EndsWith(".sort", StringComparison.InvariantCultureIgnoreCase))
             {
-                return System.IO.Path.GetFileName(path).StartsWith("menu", StringComparison.InvariantCultureIgnoreCase);
+                return System.IO.Path.GetFileName(path).StartsWith("Menu", StringComparison.InvariantCultureIgnoreCase);
             }
             return false;
         }
